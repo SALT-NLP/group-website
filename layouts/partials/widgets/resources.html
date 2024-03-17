@@ -1,0 +1,30 @@
+<style>
+  .hover-red:hover {
+      color: #65000b !important;
+  }
+  </style>
+
+<div class="courses" style="padding: 0 4em">
+  <h2>Courses</h2>
+  {{ $courses := where site.Pages "Section" "courses" }}
+  {{ $courses := where $courses "Kind" "page" }}
+  {{ $coursesByYear := $courses.GroupByDate "2020" "desc" }}
+  {{ range $group := $coursesByYear }}
+  <div class="course-year">
+    <ul>
+      {{ range $group.Pages }}
+        <li>
+            <span><strong><a class="hover-red" style="color:black" href="{{ .Params.link }}"> {{ .Title }} </a></strong></span>
+            <p>
+              {{ .Params.location}}:             
+              {{ with .Params.times}}
+                <span class="list-times">{{ delimit . ", " }}</span>
+              {{ end }}
+            </p>
+        </li>
+      {{ end }}
+    </ul>
+    
+  </div>
+{{ end }}
+</div>

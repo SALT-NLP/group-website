@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+assets/jsconfig.json
+
+# Runtime File
+.hugo_build.lock
+go.sum
+.DS_Store

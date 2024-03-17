@@ -1,0 +1,81 @@
+<div class="publications">
+  {{ $ := .root }}
+  {{ $page := .page }}
+  {{ $publications := where site.Pages "Section" "papers" }}
+  {{ $publications := where $publications "Kind" "page" }}
+
+  <!-- Separate drafts and published papers -->
+  {{ $drafts := where $publications "Params.preprint" true }}
+  {{ $published := where $publications "Params.preprint" false }}
+
+
+  {{ $sortedDrafts := $drafts.ByDate.Reverse }}
+  {{ if $sortedDrafts }}
+    <div class="publication-year">
+      <h2>Recent Preprints</h2>
+      <ul>
+        {{ range $sortedDrafts }}
+          <li>
+            <h4 class="list-title">{{ .Title }}</h4>
+
+            {{ with .Params.authors }}
+            <span class="list-authors">{{ delimit . ", " }}</span>
+            {{ end }}
+
+            <div class="list-metadata">
+              <span class='conference'>{{ .Params.conference }}</span>
+              {{ with .Params.paper }}
+              <span class="paper-link"><a href="{{ . }}">[Paper]</a></span>
+              {{ end }}
+              {{ with .Params.code }}
+              <span class="code-link"><a href="{{ . }}">[Code]</a></span>
+              {{ end }}
+              {{ with .Params.webpage }}
+              <span class="code-link"><a href="{{ . }}">[Project Page]</a></span>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+
+  {{ $publicationsByYear := $published.GroupByDate "2006" "desc" }}
+  {{ range $group := $publicationsByYear }}
+    <div class="publication-year">
+      {{ if gt (int .Key) 2019 }}
+        <h2>{{ .Key }}</h2>
+      {{ else if eq (int .Key) 2019 }}
+        <h2>2019 and Before</h2>
+      {{ else }}
+      {{ end }}
+      <ul>
+        {{ range $group.Pages }}
+          <li>
+            <h4 class="list-title">{{ .Title }}</h4>
+
+            {{ with .Params.authors }}
+                <span class="list-authors">{{ delimit . ", " }}</span>
+              {{ end }}
+
+            <div class="list-metadata">
+              <span class='conference'>{{ .Params.conference }}</span>
+              {{ with .Params.paper }}
+                <span class="paper-link"><a href="{{ . }}">[Paper]</a></span>
+              {{ end }}
+              {{ with .Params.code }}
+                <span class="code-link"><a href="{{ . }}">[Code]</a></span>
+              {{ end }}
+              {{ with .Params.webpage }}
+                <span class="code-link"><a href="{{ . }}">[Project Page]</a></span>
+              {{ end }}
+              {{ with .Params.award }}
+                <span class="award"><font color="#8C1515"><strong>🏆 {{ . }}</strong></font></span>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+</div>

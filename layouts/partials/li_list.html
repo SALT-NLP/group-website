@@ -1,0 +1,34 @@
+{{ $item := . }}
+
+<div class="list-item">
+
+  <h4 class="list-title">
+    {{ $item.Title }}
+  </h4>
+
+  {{ if or $item.Params.authors $item.Date }}
+  <div class="list-metadata">
+    {{ with $item.Params.authors }}
+    <span class="list-authors">{{ delimit . ", " }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="list-metadata">
+    <span class='conference'>{{ $item.Params.Conference }}</span>
+    {{ with $item.Params.Paper }}
+    <span class="paper-link"> <a href="{{ $item.Params.Paper }}">[Paper]</a></span>
+    {{ end }}
+    {{ with $item.Params.Code }}
+    <span class="paper-link"> <a href="{{ $item.Params.Code }}">[Code]</a></span>
+    {{ end }}
+    {{ with $item.Params.Webpage }}
+    <span class="paper-link"> <a href="{{ $item.Params.Webpage }}">[Project Page]</a></span>
+    {{ end }}
+
+  </div>
+
+
+
+
+</div>
