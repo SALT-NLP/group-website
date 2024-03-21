@@ -1,5 +1,7 @@
 # Editting Group Website
 
+To avoid conflict, please open PR to edit the website!
+
 ## Basic Edit
 
 Making the specified changes to the group website is straightforward and you even don't need to set up a local development environment to do it. Check out [Developer Guide](#developer-guide) if you need more extensive modifications.
@@ -161,7 +163,8 @@ The group website is currently deployed on a server provided by [Stanford Domain
 
 ### Update the website on Stanford Domains server
 
+Currently, Yijia Shao will update the website when there are new PRs. May figure out how to automate this process in the future :)
+
 1. In the local development environment, run `hugo` and compress `./public` into `public.zip`.
 
 2. Log in the server through https://domains.stanford.edu/dashboard/. Click "File Manager" under the "Files" menu to upload `public.zip`. Then click "Terminal" under the "Advanced" menu. In the terminal, run `bash update_website.sh`.
-    - Currently, please contact Yijia Shao to log in.
