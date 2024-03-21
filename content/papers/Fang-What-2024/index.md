@@ -1,5 +1,5 @@
 ---
-title: "Human-in-the-loop Abstractive Dialogue Summarization"
+title: "What Makes Digital Support Effective? How Therapeutic Skills Affect Clinical Well-Being"
 authors: ['Anna Fang', 'Wenjie Yang', 'Raj Sanjay Shah', 'Yash Mathur', 'Diyi Yang', 'Haiyi Zhu', 'Robert Kraut']
 categories: []
 date: "2024-01-01"
