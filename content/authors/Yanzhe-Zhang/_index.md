@@ -27,9 +27,9 @@ social:
   - icon: home
     icon_pack: fas
     link: https://stevenyzzhang.github.io/website/
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: 
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/StevenyzZhang
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
