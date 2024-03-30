@@ -1,6 +1,8 @@
 # Editting Group Website
 
-To avoid conflict, please open PR to edit the website!
+We have set up a workflow to automatically update https://saltlab.stanford.edu whenever there is a new commit on the `main` branch. So any change on the `main` branch will be directly reflected on our website.
+
+**To avoid conflict, please open PR to edit the website!** The `main` branch is protected from direct commits.
 
 ## Basic Edit
 
@@ -161,9 +163,9 @@ This website is built with [Hugo Blox](https://docs.hugoblox.com/), a framework 
 ## Deployment
 The group website is currently deployed on a server provided by [Stanford Domains](https://domains.stanford.edu/) under the cpanel called `salt`. The corresponding domain name is  https://saltlab.stanford.edu/.
 
-### Update the website on Stanford Domains server
+We have set up a Github workflow to automatically update the website whenever there is a new commit on the `main` branch.
 
-Currently, Yijia Shao will update the website when there are new PRs. May figure out how to automate this process in the future :)
+### Manually update the website on Stanford Domains server
 
 1. In the local development environment, run `hugo` and compress `./public` into `public.zip`.
 
