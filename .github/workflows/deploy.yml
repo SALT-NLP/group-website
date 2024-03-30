@@ -28,4 +28,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: "./public/*"
-          target: ${{ secrets.DESTINATION }}
+          target: ${{ secrets.DESTINATION }}/
