@@ -29,9 +29,9 @@ social:
 - icon: home
   icon_pack: fas
   link: https://www.cc.gatech.edu/~jchen896/
-# - icon: twitter
-#   icon_pack: fab
-#   link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jiaao_chen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
