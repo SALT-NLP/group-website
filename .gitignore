@@ -4,6 +4,7 @@
 # Hugo
 resources/
 public/
+public.zip
 assets/jsconfig.json
 
 # Runtime File
