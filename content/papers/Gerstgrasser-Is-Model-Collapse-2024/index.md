@@ -1,7 +1,7 @@
 ---
 title: "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data
 "
-authors: ['Matthias Gerstgrasser', 'Rylan Schaeffer', 'Apratim Dey', 'Rafael Rafailov', 'Henry Sleight', 'John Hughes', 'Tomasz Korbak', 'Rajashree Agrawal', 'Dhruv Pai', 'Andrey Gromov', 'Daniel A. Roberts', 'Diyi Yang', 'David L. Donoho', 'Sanmi Koyejo']
+authors: ['Matthias Gerstgrasser*', 'Rylan Schaeffer*', 'Apratim Dey*', 'Rafael Rafailov*', 'Dhruv Pai', 'Henry Sleight', 'John Hughes', 'Tomasz Korbak', 'Rajashree Agrawal', 'Andrey Gromov', 'Daniel A. Roberts', 'Diyi Yang', 'David L. Donoho', 'Sanmi Koyejo']
 categories: []
 date: "2024-04-01"
 preprint: true
