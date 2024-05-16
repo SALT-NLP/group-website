@@ -42,6 +42,10 @@ subtitle = ""
 
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
+<tr class="news-item">
+    <td style="border: none;">05/2024</td>
+    <td style="border: none;">SALT Lab has seven papers accepted to <a href="https://2024.aclweb.org/">ACL 2024</a>, three to the main conference and four to the findings. See you in Bangkok!</td>
+  </tr>
   <tr class="news-item">
     <td style="border: none;">03/2024</td>
     <td style="border: none;">Omar's paper "Grounding or Guesswork? Large Language Models are Presumptive Grounders" is accepted to NAACL main conference. Check out the <a href="https://arxiv.org/abs/2311.09144">preprint</a>.</td>
