@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Rijul Magu
+title: Minzhi (Ella) Li
 
 # Username (this should match the folder name)
 authors:
-  - Rijul Magu
+  - Minzhi
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role:
+role: Visiting PhD
 
 # Additional information (e.g., coadvise)
-additional_info: Co-advise w/ [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/)
+additional_info:
 
 # Organizations/Affiliations
 # organizations:
@@ -21,12 +21,12 @@ additional_info: Co-advise w/ [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.B
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 206
+weight: 213
 
 social:
   - icon: home
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=YHkIE44AAAAJ&hl=en
+    link: https://yocodeyo.github.io/
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -35,5 +35,4 @@ email: ""
 user_groups:
   - Current Members
   - PhD Students
-
 ---

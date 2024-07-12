@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Weiyan Shi
+title: Yicheng Fu
 
 # Username (this should match the folder name)
 authors:
-  - Weiyan Shi
+  - Yicheng Fu
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role:
+role: Master
 
 # Additional information (e.g., coadvise)
 additional_info:
@@ -21,12 +21,12 @@ additional_info:
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 102
+weight: 306
 
 social:
   - icon: home
     icon_pack: fas
-    link: https://wyshi.github.io/
+    link: https://sofyc.github.io/
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -34,5 +34,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Members
-  - Postdocs
+  - Master & Undergraduate Students
 ---

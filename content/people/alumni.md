@@ -18,6 +18,9 @@ subtitle = ""
  css_class = "no-link-color-change"
 +++
 
+#### Postdocs
+- [Weiyan Shi](https://wyshi.github.io/) -> Assistant Professor @ Northeastern
+
 #### PhD Students
 - [Ian Stewart](http://ianbstewart.github.io/) (co-advised with Jacob Eisenstein) -> Pacific Northwest National Laboratory
  
@@ -36,6 +39,7 @@ subtitle = ""
 - Raj Sanjay Shah -> PhD @ Georgia Institute of Technology
 - Alex Gurung -> PhD @ Edinburgh University
 - Vaibhav Kumar -> AI/ML Engineer @ Replit.com
+- Rodrigo Nieto -> Google
 
 #### Undergraduate Students
 - Yujiao Gao -> NCR Corporation
