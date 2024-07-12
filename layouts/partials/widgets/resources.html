@@ -28,3 +28,31 @@
   </div>
 {{ end }}
 </div>
+
+
+<div class="tutorials" style="padding: 0 4em">
+  <h2>Tutorials</h2>
+  {{ $tutorials := where site.Pages "Section" "tutorials" }}
+  {{ $tutorials := where $tutorials "Kind" "page" }}
+  {{ $tutorialsByYear := $tutorials.GroupByDate "2020" "desc" }}
+  {{ range $group := $tutorialsByYear }}
+  <div class="tutorial-year">
+    <ul>
+      {{ range $group.Pages }}
+        <li>
+            <span><strong><a class="hover-red" style="color:black" href="{{ .Params.link }}"> {{ .Title }} </a></strong> at {{ .Params.location }} </span>
+            {{ with .Params.slides }}
+                <span class="slides-link"><a href="{{ . }}">[Slides]</a></span>
+              {{ end }}
+            <p>           
+              {{ with .Params.people}}
+                <span class="list-people">{{ delimit . ", " }}</span>
+              {{ end }}
+            </p>
+        </li>
+      {{ end }}
+    </ul>
+    
+  </div>
+{{ end }}
+</div>
