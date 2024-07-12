@@ -2,7 +2,7 @@
 .idea/
 
 # Hugo
-resources/
+resources/_gen
 public/
 public.zip
 assets/jsconfig.json
