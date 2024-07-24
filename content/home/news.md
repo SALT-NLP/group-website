@@ -42,7 +42,11 @@ subtitle = ""
 
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
-<tr class="news-item">
+  <tr class="news-item">
+    <td style="border: none;">07/2024</td>
+    <td style="border: none;"><a href="https://arxiv.org/abs/2310.02170">Dynamic LLM-Agent Network</a> is accepted to the first COLM. Congratulations to Zijun and Yanzhe!</td>
+  </tr>
+  <tr class="news-item">
     <td style="border: none;">05/2024</td>
     <td style="border: none;">SALT Lab has seven papers accepted to <a href="https://2024.aclweb.org/">ACL 2024</a>, three to the main conference and four to the findings. See you in Bangkok!</td>
   </tr>
