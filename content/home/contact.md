@@ -34,7 +34,7 @@ We are always looking for strong PhD students with interests in NLP and Computat
 
 ## Stanford Undergraduate and Masters
 
-We are happy to work with masters or undergraduate students. Please apply via <a href="https://nlp.stanford.edu/clips/">**CLiPS**</a> if you are interested in research positions at the Stanford NLP Group. Alternatively, you can also fill <a href="https://forms.gle/KqAcsfRsmPNwhsmj6">**this form**</a> before we fully migrate to CLiPS. We expect applicants to have some prior experience in NLP or ML (prior research experience is not required), and a minimum of 10 hours per week commitment to research. After completing the form, please email Prof. Yang via diyiy@cs.stanford.edu.
+We are happy to work with masters or undergraduate students. Please apply via <a href="https://nlp.stanford.edu/clips/">**CLiPS**</a> if you are interested in research positions at the Stanford NLP Group. Alternatively, you can also fill <a href="https://forms.gle/GFVH25xzfwtYXdbs8">**this form**</a> before we fully migrate to CLiPS. We expect applicants to have some prior experience in NLP or ML (prior research experience is not required), and a minimum of 10 hours per week commitment to research. After completing the form, please email Prof. Yang via diyiy@cs.stanford.edu.
 
 ## Outside of Stanford
-We take visitors on a rolling basis, and generally prefer visitors to stay for at least 6 months for high-quality work. If you are not a Stanford student and interested in visiting our research lab, please fill <a href="https://forms.gle/MCpnMKCpGpY449sG9">**this form**</a>.
+We take visitors on a rolling basis, and generally prefer visitors to stay for at least 6 months for high-quality work. If you are not a Stanford student and interested in visiting our research lab, please fill <a href="https://forms.gle/PTbH1vVqWMpEgDgVA">**this form**</a>.
