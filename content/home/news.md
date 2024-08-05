@@ -43,6 +43,10 @@ subtitle = ""
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
   <tr class="news-item">
+    <td style="border: none;">08/2024</td>
+    <td style="border: none;">Our group's research on aligning AI chatbots is covered by Stanford HAI. <a href="https://hai.stanford.edu/news/challenge-aligning-ai-chatbots">Read the coverage!</a></td>
+  </tr>
+  <tr class="news-item">
     <td style="border: none;">07/2024</td>
     <td style="border: none;"><a href="https://arxiv.org/abs/2310.02170">Dynamic LLM-Agent Network</a> is accepted to the first COLM. Congratulations to Zijun and Yanzhe!</td>
   </tr>
