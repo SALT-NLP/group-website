@@ -66,8 +66,11 @@
               {{ with .Params.code }}
                 <span class="code-link"><a href="{{ . }}">[Code]</a></span>
               {{ end }}
+              {{ with .Params.dataset }}
+                <span class="dataset-link"><a href="{{ . }}">[Dataset]</a></span>
+              {{ end }}
               {{ with .Params.webpage }}
-                <span class="code-link"><a href="{{ . }}">[Project Page]</a></span>
+                <span class="webpage-link"><a href="{{ . }}">[Project Page]</a></span>
               {{ end }}
               {{ with .Params.award }}
                 <span class="award"><font color="#8C1515"><strong>🏆 {{ . }}</strong></font></span>
