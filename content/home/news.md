@@ -25,7 +25,7 @@ subtitle = ""
   .news-item {
     display: none;
   }
-  .news-item:nth-child(-n+10) { /* Only display 10 latest news */
+  .news-item:nth-child(-n+15) { /* Only display 15 latest news */
     display: table-row;
   }
   .no-hover-effect-or-stripes tr:hover td {
@@ -42,6 +42,10 @@ subtitle = ""
 
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
+  <tr class="news-item">
+    <td style="border: none;">08/2024</td>
+    <td style="border: none;">Diyi gave an invited talk at <a href="https://summit.newturing.ai/">GenAI summit</a> in Vietnam.</td>
+  </tr>
   <tr class="news-item">
     <td style="border: none;">08/2024</td>
     <td style="border: none;">Our group's research on aligning AI chatbots is covered by Stanford HAI. <a href="https://hai.stanford.edu/news/challenge-aligning-ai-chatbots">Read the coverage!</a></td>
