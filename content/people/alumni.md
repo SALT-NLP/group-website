@@ -20,9 +20,11 @@ subtitle = ""
 
 #### Postdocs
 - [Weiyan Shi](https://wyshi.github.io/) -> Assistant Professor @ Northeastern
+- [Matthias Gerstgrasser](https://matthias.gerstgrasser.net/)
 
 #### PhD Students
 - [Ian Stewart](http://ianbstewart.github.io/) (co-advised with Jacob Eisenstein) -> Pacific Northwest National Laboratory
+- [Jiaao Chen](https://www.jiaaochen.com/)
  
 #### Master Students
 - Jacob Beel -> Diveplane Corporation

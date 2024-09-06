@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Matthias Gerstgrasser
+title: Hao Zhu
 
 # Username (this should match the folder name)
 authors:
-- Matthias Gerstgrasser
+- Hao Zhu
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,7 +13,7 @@ superuser: false
 role:
 
 # Additional information (e.g., coadvise)
-additional_info: Co-advise w/ [David C. Parkes](https://parkes.seas.harvard.edu/)
+additional_info:
 
 # Organizations/Affiliations
 # organizations:
@@ -22,16 +22,16 @@ additional_info: Co-advise w/ [David C. Parkes](https://parkes.seas.harvard.edu/
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 101
+weight: 103
 
 
 social:
 - icon: home
   icon_pack: fas
-  link: https://matthias.gerstgrasser.net/
-# - icon: twitter
-#   icon_pack: fab
-#   link: 
+  link: https://www.zhuhao.me/
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/_Hao_Zhu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
