@@ -42,6 +42,7 @@ subtitle = ""
 - Alex Gurung -> PhD @ Edinburgh University
 - Vaibhav Kumar -> AI/ML Engineer @ Replit.com
 - Rodrigo Nieto -> Google
+- Julia Kruk -> Data Scientist @ Bombora
 
 #### Undergraduate Students
 - Yujiao Gao -> NCR Corporation
