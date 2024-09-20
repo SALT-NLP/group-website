@@ -43,6 +43,10 @@ subtitle = ""
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
   <tr class="news-item">
+    <td style="border: none;">09/2024</td>
+    <td style="border: none;">SALT lab has seven papers accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a> (three to the main conference and four to the findings). We also have two papers accepted to <a href="https://dl.acm.org/conference/cscw">CSCW</a>. Congrats on these amazing efforts!</td>
+  </tr>
+  <tr class="news-item">
     <td style="border: none;">08/2024</td>
     <td style="border: none;">Diyi gave an invited talk at <a href="https://summit.newturing.ai/">GenAI summit</a> in Vietnam.</td>
   </tr>
