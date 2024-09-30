@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Seong Hee Lee
+title: Raj Sanjay Shah
 
 # Username (this should match the folder name)
 authors:
-  - Seong Hee Lee
+  - Raj-Sanjay-Shah
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Master
+role: Visiting PhD
 
 # Additional information (e.g., coadvise)
 additional_info:
@@ -21,12 +21,15 @@ additional_info:
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 303
+weight: 214
 
 social:
   - icon: home
     icon_pack: fas
-    link: https://shljessie.github.io/
+    link: https://raj-sanjay-shah.github.io/
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/rajsanjayshah
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -34,5 +37,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Members
-  - Master & Undergraduate Students
+  - PhD Students
 ---

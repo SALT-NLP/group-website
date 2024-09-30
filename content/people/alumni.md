@@ -43,6 +43,8 @@ subtitle = ""
 - Vaibhav Kumar -> AI/ML Engineer @ Replit.com
 - Rodrigo Nieto -> Google
 - Julia Kruk -> Data Scientist @ Bombora
+- Ananjan Nandi
+- Seong Hee Lee
 
 #### Undergraduate Students
 - Yujiao Gao -> NCR Corporation
