@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yicheng Fu
+title: Yutong Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Yicheng Fu
+  - Yutong Zhang
 
 # Is this the primary user of the site?
 superuser: False
@@ -21,12 +21,12 @@ additional_info:
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 306
+weight: 307
 
 social:
-  - icon: home
-    icon_pack: fas
-    link: https://sofyc.github.io/
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/zhangyt0704
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
