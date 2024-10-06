@@ -75,25 +75,28 @@ subtitle = ""
 
 
 <div class="slider">
-    <input type="radio" name="slide" id="slide0" checked>
-    <img class="slide" src="files/group6.jpg">
-    <input type="radio" name="slide" id="slide1">
-    <img class="slide" src="files/group1.jpg">
+    <input type="radio" name="slide" id="slide1" checked>
+    <img class="slide" src="files/group20241005.JPG">
     <input type="radio" name="slide" id="slide2">
-    <img class="slide" src="files/group2.jpg">
+    <img class="slide" src="files/group6.jpg">
     <input type="radio" name="slide" id="slide3">
-    <img class="slide" src="files/group3.jpg">
+    <img class="slide" src="files/group1.jpg">
     <input type="radio" name="slide" id="slide4">
-    <img class="slide" src="files/group4.jpg">
+    <img class="slide" src="files/group2.jpg">
     <input type="radio" name="slide" id="slide5">
+    <img class="slide" src="files/group3.jpg">
+    <input type="radio" name="slide" id="slide6">
+    <img class="slide" src="files/group4.jpg">
+    <input type="radio" name="slide" id="slide7">
     <img class="slide" src="files/group5.jpg">
     <div class="navigation">
-        <label for="slide0"></label>
         <label for="slide1"></label>
         <label for="slide2"></label>
         <label for="slide3"></label>
         <label for="slide4"></label>
         <label for="slide5"></label>
+        <label for="slide6"></label>
+        <label for="slide7"></label>
     </div>
 </div>
 
