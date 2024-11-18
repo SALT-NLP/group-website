@@ -20,7 +20,7 @@ subtitle = ""
 
 #### Postdocs
 - [Weiyan Shi](https://wyshi.github.io/) -> Assistant Professor @ Northeastern
-- [Matthias Gerstgrasser](https://matthias.gerstgrasser.net/)
+- [Matthias Gerstgrasser](https://matthias.gerstgrasser.net/) -> OpenAI
 
 #### PhD Students
 - [Ian Stewart](http://ianbstewart.github.io/) (co-advised with Jacob Eisenstein) -> Pacific Northwest National Laboratory
