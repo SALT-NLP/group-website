@@ -1,6 +1,6 @@
 ---
 title: "Aligning Language Models with Demonstrated Feedback"
-authors: ['Omar Shaikh*', 'Michelle Lam*', 'Joey Hejna*', 'Yijia Shao', 'Hyundong Justin', 'Michael Bernstein', 'Diyi Yang']
+authors: ['Omar Shaikh*', 'Michelle Lam*', 'Joey Hejna*', 'Yijia Shao', 'Hyundong Justin Cho', 'Michael Bernstein', 'Diyi Yang']
 categories: []
 date: "2025-01-22"
 preprint: false
