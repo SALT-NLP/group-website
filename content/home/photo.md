@@ -76,7 +76,7 @@ subtitle = ""
 
 <div class="slider">
     <input type="radio" name="slide" id="slide1" checked>
-    <img class="slide" src="files/group20250419.JPG">
+    <img class="slide" src="files/group20250419.jpg">
     <input type="radio" name="slide" id="slide2">
     <img class="slide" src="files/group20241005.JPG">
     <input type="radio" name="slide" id="slide3">
