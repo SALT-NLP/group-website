@@ -24,7 +24,7 @@ subtitle = ""
 
 #### PhD Students
 - [Ian Stewart](http://ianbstewart.github.io/) (co-advised with Jacob Eisenstein) -> Pacific Northwest National Laboratory
-- [Jiaao Chen](https://www.jiaaochen.com/) -> Anthropic
+- [Jiaao Chen](https://www.jiaaochen.com/) -> Meta
  
 #### Master Students
 - Jacob Beel -> Diveplane Corporation

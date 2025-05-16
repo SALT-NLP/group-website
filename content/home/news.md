@@ -43,6 +43,10 @@ subtitle = ""
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
   <tr class="news-item">
+    <td style="border: none;">05/2025</td>
+    <td style="border: none;">SALT lab has seven papers accepted to <a href="https://2025.aclweb.org/">ACL 2025</a> Main/Findings and <a href="https://icml.cc/Conferences/2025">ICML 2025</a>!</td>
+  </tr>
+  <tr class="news-item">
     <td style="border: none;">01/2025</td>
     <td style="border: none;">SALT lab has two papers on AI for frontend developing accepted to <a href="https://2025.naacl.org/">NAACL 2025</a> and four papers accepted to <a href="https://iclr.cc/">ICLR 2025</a>!</td>
   </tr>
