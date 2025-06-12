@@ -5,8 +5,8 @@ categories: []
 date: "2025-05-15"
 preprint: false
 conference: "ACL 2025"
-paper:
-code: 
-webpage: 
+paper: https://arxiv.org/pdf/2506.05598
+code: https://github.com/SALT-NLP/SynthesizeMe
+webpage: https://www.try-synthesize.me
 award: ""
 ---
