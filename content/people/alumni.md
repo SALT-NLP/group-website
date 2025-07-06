@@ -25,6 +25,7 @@ subtitle = ""
 #### PhD Students
 - [Ian Stewart](http://ianbstewart.github.io/) (co-advised with Jacob Eisenstein) -> Pacific Northwest National Laboratory
 - [Jiaao Chen](https://www.jiaaochen.com/) -> Meta
+- [Rose E. Wang](https://rosewang2008.github.io/) -> OpenAI
  
 #### Master Students
 - Jacob Beel -> Diveplane Corporation
