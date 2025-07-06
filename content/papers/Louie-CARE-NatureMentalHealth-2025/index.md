@@ -4,7 +4,7 @@ authors: ['Ryan Louie', 'Ifdita Hasan Orney', 'Juan Pablo Pacheco', 'Raj Sanjay 
 categories: []
 date: "2025-05-05"
 preprint: true
-conference: 
+conference: arXiv:2505.02428
 paper: https://arxiv.org/abs/2505.02428
 code: 
 webpage: 
