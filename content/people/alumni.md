@@ -43,7 +43,7 @@ subtitle = ""
 - Alex Gurung -> PhD @ Edinburgh University
 - Vaibhav Kumar -> AI/ML Engineer @ Replit.com
 - Rodrigo Nieto -> Google
-- Julia Kruk -> Data Scientist @ Bombora
+- Julia Kruk -> Engineer @ Meta
 - Ananjan Nandi
 - Seong Hee Lee
 
@@ -58,7 +58,7 @@ subtitle = ""
 - Taiwei Shi -> PhD @ University of Southern California
 - Hongxin Zhang -> PhD @ University of Massachusetts Amherst
 - Aryan Pariani -> Master @ Georgia Institute of Technology
-- [Faye Holt](https://fayeholt.github.io/)
+- [Faye Holt](https://fayeholt.github.io/) -> Founder, GeneHealth.ai
 
 #### Other Visitors
 - [Yuwei Wu](https://willyoung2017.github.io/) -> PhD @ Carnegie Mellon University
