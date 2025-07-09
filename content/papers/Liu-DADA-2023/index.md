@@ -1,6 +1,6 @@
 ---
 title: "DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules"
-authors: ['Yanchen Liu', 'Will Held', 'Diyi Yang']
+authors: ['Yanchen Liu', 'William Held', 'Diyi Yang']
 categories: []
 date: "2023-01-01"
 preprint: false

@@ -1,6 +1,6 @@
 ---
 title: "Perceptions of Language Technology Failures from South Asian English Speakers"
-authors: ['Faye Holt*', 'Will Held*', 'Diyi Yang']
+authors: ['Faye Holt*', 'William Held*', 'Diyi Yang']
 categories: []
 date: "2024-04-01"
 preprint: false

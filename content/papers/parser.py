@@ -61,7 +61,7 @@ html_content = """  <div id="main">
 </li>
 <li class="paper_wrapper_selected">
 <p class="paper_title">DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules</p>
-<p class="paper_authors">Yanchen Liu, Will Held, Diyi Yang</p>
+<p class="paper_authors">Yanchen Liu, William Held, Diyi Yang</p>
 <p class="paper_venue">EMNLP, 2023. <a href="https://arxiv.org/abs/2305.13406">[pdf]</a></p>
 </li>
 <li class="paper_wrapper_all">
