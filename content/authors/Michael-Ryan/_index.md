@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Master
+role: PhD Students
 
 # Additional information (e.g., coadvise)
 additional_info:
@@ -21,7 +21,7 @@ additional_info:
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 305
+weight: 213
 
 social:
   - icon: home
@@ -34,5 +34,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Members
-  - Master & Undergraduate Students
+  - PhD Students
 ---

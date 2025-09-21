@@ -46,6 +46,8 @@ subtitle = ""
 - Julia Kruk -> Data Scientist @ Bombora
 - Ananjan Nandi
 - Seong Hee Lee
+- [Yicheng Fu](https://sofyc.github.io/) -> Meta
+- [Vyoma Raman](https://www.linkedin.com/in/vyoma-raman/) -> PhD @ Cornell Tech
 
 #### Undergraduate Students
 - Yujiao Gao -> NCR Corporation
@@ -59,7 +61,13 @@ subtitle = ""
 - Hongxin Zhang -> PhD @ University of Massachusetts Amherst
 - Aryan Pariani -> Master @ Georgia Institute of Technology
 - [Faye Holt](https://fayeholt.github.io/)
+- [Sachin Allums](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHTL8OAj0CK8QAAAZJFxvYAG4oxJddpundIgqmaIWv2nsZDy6DdzNdhHe0H-HQBOIbSin1vc6tVSZnQPNp21rKdaaGpqDueS_aObGyr2lI5D9wdOW4oz2NFFSRbdYDDIZhfQ6E=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsachinallums%2F)
+- Kwame Nyarkoh-Ocran
+- [Chiji Mgbahurike](https://www.linkedin.com/in/chijioke-mgbahurike/)
+- [Ashna Khetan](https://ashnakhetan.github.io/) -> NVIDIA
 
 #### Other Visitors
 - [Yuwei Wu](https://willyoung2017.github.io/) -> PhD @ Carnegie Mellon University
 - [Yanchen Liu](https://liuyanchen1015.github.io/)
+- [Minzhi Li](https://yocodeyo.github.io/)
+- [Raj Sanjay Shah](https://raj-sanjay-shah.github.io/)
