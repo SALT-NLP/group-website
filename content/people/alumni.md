@@ -43,7 +43,7 @@ subtitle = ""
 - Alex Gurung -> PhD @ Edinburgh University
 - Vaibhav Kumar -> AI/ML Engineer @ Replit.com
 - Rodrigo Nieto -> Google
-- Julia Kruk -> Data Scientist @ Bombora
+- Julia Kruk -> Engineer @ Meta
 - Ananjan Nandi
 - Seong Hee Lee
 - [Yicheng Fu](https://sofyc.github.io/) -> Meta
@@ -60,7 +60,7 @@ subtitle = ""
 - Taiwei Shi -> PhD @ University of Southern California
 - Hongxin Zhang -> PhD @ University of Massachusetts Amherst
 - Aryan Pariani -> Master @ Georgia Institute of Technology
-- [Faye Holt](https://fayeholt.github.io/)
+- [Faye Holt](https://fayeholt.github.io/) -> Founder, GeneHealth.ai
 - [Sachin Allums](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHTL8OAj0CK8QAAAZJFxvYAG4oxJddpundIgqmaIWv2nsZDy6DdzNdhHe0H-HQBOIbSin1vc6tVSZnQPNp21rKdaaGpqDueS_aObGyr2lI5D9wdOW4oz2NFFSRbdYDDIZhfQ6E=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsachinallums%2F)
 - Kwame Nyarkoh-Ocran
 - [Chiji Mgbahurike](https://www.linkedin.com/in/chijioke-mgbahurike/)
