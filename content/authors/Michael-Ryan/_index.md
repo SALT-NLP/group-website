@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: PhD Students
+role: 1st-year Rotating PhD Students
 
 # Additional information (e.g., coadvise)
 additional_info:
