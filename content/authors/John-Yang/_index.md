@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Michael Ryan
+title: John Yang
 
 # Username (this should match the folder name)
 authors:
-  - Michael Ryan
+  - John Yang
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: 1st-year Rotating PhD Students
+role: Co-advise w/ [Ludwig Schmidt](https://john-b-yang.github.io/)
 
 # Additional information (e.g., coadvise)
 additional_info:
@@ -21,15 +21,15 @@ additional_info:
 #   url: ""
 
 # Order to show in compared to other authors
-weight: 214
+weight: 213
 
 social:
   - icon: home
     icon_pack: fas
-    link: https://michryan.com
+    link: https://john-b-yang.github.io/
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/michaelryan207
+    link: https://x.com/jyangballin
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
