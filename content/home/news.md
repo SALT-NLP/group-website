@@ -42,6 +42,10 @@ subtitle = ""
 
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
+<tr class="news-item">
+    <td style="border: none;">1/2026</td>
+    <td style="border: none;">SALT lab has three papers accepted to <a href="https://chi2026.acm.org/">CHI 2026</a> and seven papers accepted to <a href="https://iclr.cc/">ICLR 2026</a>. We are actively making progress on both the AI and HCI side of human-centered AI!</td>
+  </tr>
   <tr class="news-item">
     <td style="border: none;">11/2025</td>
     <td style="border: none;">Our two spotlight papers have been accepted to <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>!</td>
