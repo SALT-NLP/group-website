@@ -76,24 +76,26 @@ subtitle = ""
 
 <div class="slider">
     <input type="radio" name="slide" id="slide1" checked>
-    <img class="slide" src="files/group20250630.jpg">
+    <img class="slide" src="files/group20260315.jpg">
     <input type="radio" name="slide" id="slide2">
-    <img class="slide" src="files/group20250419.jpg">
+    <img class="slide" src="files/group20250630.jpg">
     <input type="radio" name="slide" id="slide3">
-    <img class="slide" src="files/group20241005.JPG">
+    <img class="slide" src="files/group20250419.jpg">
     <input type="radio" name="slide" id="slide4">
-    <img class="slide" src="files/group20250126.jpg">
+    <img class="slide" src="files/group20241005.JPG">
     <input type="radio" name="slide" id="slide5">
-    <img class="slide" src="files/group6.jpg">
+    <img class="slide" src="files/group20250126.jpg">
     <input type="radio" name="slide" id="slide6">
-    <img class="slide" src="files/group1.jpg">
+    <img class="slide" src="files/group6.jpg">
     <input type="radio" name="slide" id="slide7">
-    <img class="slide" src="files/group2.jpg">
+    <img class="slide" src="files/group1.jpg">
     <input type="radio" name="slide" id="slide8">
-    <img class="slide" src="files/group3.jpg">
+    <img class="slide" src="files/group2.jpg">
     <input type="radio" name="slide" id="slide9">
-    <img class="slide" src="files/group4.jpg">
+    <img class="slide" src="files/group3.jpg">
     <input type="radio" name="slide" id="slide10">
+    <img class="slide" src="files/group4.jpg">
+    <input type="radio" name="slide" id="slide11">
     <img class="slide" src="files/group5.jpg">
     <div class="navigation">
         <label for="slide1"></label>
