@@ -28,7 +28,7 @@ weight: 104
 social:
 - icon: home
   icon_pack: fas
-  link: http://joebaumann.org/
+  link: https://joe-baumann.com/
 - icon: twitter
   icon_pack: fab
   link: https://x.com/joabaum
