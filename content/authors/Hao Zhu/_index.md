@@ -28,7 +28,7 @@ weight: 103
 social:
 - icon: home
   icon_pack: fas
-  link: https://www.zhuhao.me/
+  link: https://www.hao.computer
 - icon: twitter
   icon_pack: fab
   link: https://x.com/_Hao_Zhu
