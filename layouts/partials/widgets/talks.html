@@ -1,0 +1,230 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<style>
+  .salt-talk-hero {
+    display: flex;
+    align-items: center;
+    gap: 3em;
+    padding: 2em 4em 1.5em 4em;
+  }
+  .salt-talk-hero img {
+    width: 220px;
+    flex-shrink: 0;
+  }
+  .salt-talk-header {
+    padding: 0 4em 1em 4em;
+  }
+  .salt-talk-header p {
+    font-size: 1rem;
+    line-height: 1.7;
+    max-width: 800px;
+  }
+  @media (max-width: 768px) {
+    .salt-talk-hero { flex-direction: column; padding: 1.5em; gap: 1.5em; }
+    .salt-talk-hero img { width: 160px; }
+  }
+  .salt-talk-meta {
+    margin: 0.5em 0 1.5em 0;
+    font-size: 0.95rem;
+    color: #555;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5em;
+  }
+  .salt-talk-meta .meta-label {
+    margin-right: 0.5em;
+  }
+  .salt-badge {
+    display: inline-block;
+    border-radius: 4px;
+    padding: 2px 10px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+  .salt-badge-red {
+    background-color: #8C1515;
+    color: white;
+  }
+  .salt-badge-gray {
+    background-color: #555;
+    color: white;
+  }
+  .talks-table-wrap {
+    padding: 0 4em 3em 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .talks-table-wrap h2,
+  .talks-table-wrap p {
+    align-self: flex-start;
+  }
+  .talks-table {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-family: 'Nunito', sans-serif;
+  }
+  .talks-table thead tr {
+    border-bottom: 2px solid #8C1515;
+  }
+  .talks-table thead th {
+    text-align: left;
+    padding: 0.5em 1em 0.5em 0;
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #8C1515;
+  }
+  .talks-table tbody tr {
+    border-bottom: 1px solid #e5e5e5;
+    transition: background 0.15s;
+  }
+  .talks-table tbody tr:hover {
+    background-color: #fdf5f5;
+  }
+  .talks-table td {
+    padding: 0.85em 1em 0.85em 0;
+    vertical-align: top;
+  }
+  .talk-date {
+    white-space: nowrap;
+    font-weight: 600;
+    color: #333;
+    min-width: 120px;
+  }
+  .talk-speaker {
+    font-weight: 700;
+    color: #111;
+  }
+  .talk-affiliation {
+    font-weight: 400;
+    color: #666;
+    font-size: 0.9em;
+  }
+  .talk-title {
+    color: #333;
+    font-style: italic;
+  }
+  .talk-tbd {
+    color: #bbb;
+    font-style: italic;
+  }
+  @media (max-width: 768px) {
+    .salt-talk-header, .talks-table-wrap { padding-left: 1.5em; padding-right: 1.5em; }
+    .talks-table thead { display: none; }
+    .talks-table tbody tr { display: block; margin-bottom: 1.2em; border-bottom: 2px solid #e5e5e5; padding: 0.5em 0; }
+    .talks-table td { display: block; padding: 0.2em 0; }
+  }
+</style>
+
+<div class="salt-talk-hero">
+  <img src="/media/salt_talk_logo.png" alt="SALT &amp; Talk logo"/>
+  <div>
+    <p>
+      The Stanford SALT &amp; Talk Speaker Series takes place on the second Friday of every month, from 12:00–1:30pm PT. This interdisciplinary series brings together experts from a wide range of fields, including natural language processing, machine learning, AI, human-computer interaction, linguistics, and the social sciences, to explore cutting-edge research in socially aware NLP.
+    </p>
+    <p>
+      We would like to thank <a href="https://www.amplifypartners.com/">Amplify Partners</a> for their support of the talk series from Summer 2026 – Spring 2027.
+    </p>
+    <p>
+      The series is organized by <a href="https://joe-baumann.com/">Joachim Baumann</a> and <a href="https://vishakhpk.github.io/">Vishakh Padmakumar</a>.
+      Attendance is invite only. If you would like to attend, please reach out to the organizers.
+    </p>
+  </div>
+</div>
+
+<div class="talks-table-wrap">
+  <table class="talks-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Talk Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $talks := slice
+        (dict "date" "Jun 12, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Jul 10, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Aug 14, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Sep 11, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Oct 9, 2026"     "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Nov 13, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Dec 11, 2026"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Jan 8, 2027"     "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Feb 12, 2027"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Mar 12, 2027"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Apr 9, 2027"     "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "May 14, 2027"    "speaker" "" "affiliation" "" "title" "")
+      }}
+      {{ range $talks }}
+        <tr>
+          <td class="talk-date">{{ .date }}</td>
+          <td>
+            {{ if .speaker }}
+              <div class="talk-speaker">{{ .speaker }}</div>
+              {{ if .affiliation }}<div class="talk-affiliation">{{ .affiliation }}</div>{{ end }}
+            {{ else }}
+              <span class="talk-tbd">TBD</span>
+            {{ end }}
+          </td>
+          <td>
+            {{ if .title }}
+              <span class="talk-title">{{ .title }}</span>
+            {{ else }}
+              <span class="talk-tbd">TBD</span>
+            {{ end }}
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<div class="talks-table-wrap" style="padding-top: 2em;">
+  <h2 style="font-family: 'Nunito', sans-serif; font-size: 1.4rem; font-weight: 700; color: #111; margin-bottom: 0.2em;">Past Speakers</h2>
+  <p style="color: #888; font-size: 0.9rem; margin-top: 0; margin-bottom: 1.2em;">2025–2026</p>
+  <table class="talks-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Talk Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="talk-date">May 29, 2026</td>
+        <td><div class="talk-speaker">Jonas Hubotter</div></td>
+        <td><span class="talk-title">Rethinking Post-Training with Self-Distillation</span></td>
+      </tr>
+      <tr>
+        <td class="talk-date">Apr 30, 2026</td>
+        <td><div class="talk-speaker">Shannon Shen</div></td>
+        <td><span class="talk-title">From Assistants to Collaborators: Building Agents for Long-Form, Open-ended Collaboration</span></td>
+      </tr>
+      <tr>
+        <td class="talk-date">Apr 10, 2026</td>
+        <td><div class="talk-speaker">Bodhisattwa Majumdar</div></td>
+        <td><span class="talk-title">Intriguing Speculations with AI on the Possibilities of Science</span></td>
+      </tr>
+      <tr>
+        <td class="talk-date">Jan 23, 2026</td>
+        <td><div class="talk-speaker">Yu Sun</div></td>
+        <td><span class="talk-title">Test-Time Training</span></td>
+      </tr>
+      <tr>
+        <td class="talk-date">Dec 11, 2025</td>
+        <td><div class="talk-speaker">Ben Shi</div></td>
+        <td><span class="talk-title">Towards Scalable Evaluation of Human-AI Interaction</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
