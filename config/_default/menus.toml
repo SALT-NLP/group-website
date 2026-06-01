@@ -20,6 +20,11 @@
   weight = 30
 
 [[main]]
+  name = "SALT & Talk"
+  url = "/talks/"
+  weight = 35
+
+[[main]]
   name = "Resources"
   url = "/resources"
   weight = 40 
