@@ -103,11 +103,6 @@
     font-weight: 700;
     color: #111;
   }
-  .talk-affiliation {
-    font-weight: 400;
-    color: #666;
-    font-size: 0.9em;
-  }
   .talk-title {
     color: #333;
     font-style: italic;
@@ -151,18 +146,19 @@
     </thead>
     <tbody>
       {{ $talks := slice
-        (dict "date" "Jun 12, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Jul 10, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Aug 14, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Sep 11, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Oct 9, 2026"     "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Nov 13, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Dec 11, 2026"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Jan 8, 2027"     "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Feb 12, 2027"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Mar 12, 2027"    "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "Apr 9, 2027"     "speaker" "" "affiliation" "" "title" "")
-        (dict "date" "May 14, 2027"    "speaker" "" "affiliation" "" "title" "")
+        (dict "date" "Jun 12, 2026"    "speaker" "Yoonho Lee" "title" "")
+        (dict "date" "Jul 10, 2026"    "speaker" "Tiancheng Hu" "title" "")
+        (dict "date" "Jul 17, 2026"    "speaker" "Ricardo Olmedo" "title" "")
+        (dict "date" "Aug 14, 2026"    "speaker" "" "title" "")
+        (dict "date" "Sep 11, 2026"    "speaker" "" "title" "")
+        (dict "date" "Oct 9, 2026"     "speaker" "" "title" "")
+        (dict "date" "Nov 13, 2026"    "speaker" "" "title" "")
+        (dict "date" "Dec 11, 2026"    "speaker" "" "title" "")
+        (dict "date" "Jan 8, 2027"     "speaker" "" "title" "")
+        (dict "date" "Feb 12, 2027"    "speaker" "" "title" "")
+        (dict "date" "Mar 12, 2027"    "speaker" "" "title" "")
+        (dict "date" "Apr 9, 2027"     "speaker" "" "title" "")
+        (dict "date" "May 14, 2027"    "speaker" "" "title" "")
       }}
       {{ range $talks }}
         <tr>
@@ -170,7 +166,6 @@
           <td>
             {{ if .speaker }}
               <div class="talk-speaker">{{ .speaker }}</div>
-              {{ if .affiliation }}<div class="talk-affiliation">{{ .affiliation }}</div>{{ end }}
             {{ else }}
               <span class="talk-tbd">TBD</span>
             {{ end }}
@@ -201,8 +196,13 @@
     </thead>
     <tbody>
       <tr>
+        <td class="talk-date">June 3, 2026</td>
+        <td><div class="talk-speaker">Alec Radford</div></td>
+        <td><span class="talk-title">-</span></td>
+      </tr>
+      <tr>
         <td class="talk-date">May 29, 2026</td>
-        <td><div class="talk-speaker">Jonas Hubotter</div></td>
+        <td><div class="talk-speaker">Jonas Hübotter</div></td>
         <td><span class="talk-title">Rethinking Post-Training with Self-Distillation</span></td>
       </tr>
       <tr>
