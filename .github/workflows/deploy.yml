@@ -21,6 +21,13 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Show runner public IP
+        run: curl -s https://api.ipify.org
+
+      - name: Test SSH port
+        run: |
+            nc -vz -w 10 "${{ secrets.HOST }}" 22
+
       - name: Copy public directory to server
         uses: appleboy/scp-action@master
         with:
