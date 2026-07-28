@@ -170,3 +170,4 @@ We have set up a Github workflow to automatically update the website whenever th
 1. In the local development environment, run `hugo` and compress `./public` into `public.zip`.
 
 2. Log in the server through https://domains.stanford.edu/dashboard/. Click "File Manager" under the "Files" menu to upload `public.zip`. Then click "Terminal" under the "Advanced" menu. In the terminal, run `bash update_website.sh`.
+
