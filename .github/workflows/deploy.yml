@@ -21,20 +21,10 @@ jobs:
       - name: Build
         run: hugo
 
-      - name: Show runner public IP
-        run: curl -s https://api.ipify.org
-
-      - name: Test SSH port
-        run: |
-            nc -vz -w 10 "${{ secrets.HOST }}" 22
-
-      - name: Copy public directory to server
-        uses: appleboy/scp-action@master
+      - name: Publish to deploy branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          port: 22
-          source: "public/"
-          target: ${{ secrets.DESTINATION }}
-          strip_components: 1
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: deploy
+          force_orphan: true
