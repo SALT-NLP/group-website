@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raj Sanjay Shah | Stanford SALT Lab</title>
+    <link>/authors/raj-sanjay-shah/</link>
+      <atom:link href="/authors/raj-sanjay-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raj Sanjay Shah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Raj Sanjay Shah</title>
+      <link>/authors/raj-sanjay-shah/</link>
+    </image>
+    
+    <item>
+      <title>Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90&#43; Novice Counselors</title>
+      <link>/papers/louie-care-naturementalhealth-2025/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-care-naturementalhealth-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback</title>
+      <link>/papers/hsu-helping-arxiv2305/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/hsu-helping-arxiv2305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors</title>
+      <link>/papers/chaszczewicz-multi-level-feedback-2024/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/chaszczewicz-multi-level-feedback-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Makes Digital Support Effective? How Therapeutic Skills Affect Clinical Well-Being</title>
+      <link>/papers/fang-what-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/fang-what-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Motivational Interviewing Strategies On Online Peer-to-Peer Counseling Platforms</title>
+      <link>/papers/shah-modeling-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/shah-modeling-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

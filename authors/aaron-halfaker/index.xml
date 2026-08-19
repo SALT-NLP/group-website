@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron Halfaker | Stanford SALT Lab</title>
+    <link>/authors/aaron-halfaker/</link>
+      <atom:link href="/authors/aaron-halfaker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron Halfaker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Aaron Halfaker</title>
+      <link>/authors/aaron-halfaker/</link>
+    </image>
+    
+    <item>
+      <title>Identifying Semantic Edit Intentions from Revisions in Wikipedia</title>
+      <link>/papers/yang-identifying-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-identifying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who does What: Editor Role Identification in Wikipedia</title>
+      <link>/papers/yang-who-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-who-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

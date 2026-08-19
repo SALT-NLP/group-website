@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Stewart | Stanford SALT Lab</title>
+    <link>/authors/ian-stewart/</link>
+      <atom:link href="/authors/ian-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Stewart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ian Stewart</title>
+      <link>/authors/ian-stewart/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing Collective Attention via Descriptor Context: A Case Study of Public Discussions of Crisis Events</title>
+      <link>/papers/stewart-characterizing-2023/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/stewart-characterizing-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

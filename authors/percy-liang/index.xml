@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Percy Liang | Stanford SALT Lab</title>
+    <link>/authors/percy-liang/</link>
+      <atom:link href="/authors/percy-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Percy Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Percy Liang</title>
+      <link>/authors/percy-liang/</link>
+    </image>
+    
+    <item>
+      <title>Blackbox Model Provenance via Palimpsestic Membership Inference</title>
+      <link>/papers/kuditipudi-blackbox-2025/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/kuditipudi-blackbox-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

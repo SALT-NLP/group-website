@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Lewis | Stanford SALT Lab</title>
+    <link>/authors/mike-lewis/</link>
+      <atom:link href="/authors/mike-lewis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mike Lewis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Mike Lewis</title>
+      <link>/authors/mike-lewis/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Pretraining Data Mixtures with LLM-Estimated Utility</title>
+      <link>/papers/held-optimizing-2025/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-optimizing-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

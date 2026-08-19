@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruiyi Zhang | Stanford SALT Lab</title>
+    <link>/authors/ruiyi-zhang/</link>
+      <atom:link href="/authors/ruiyi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiyi Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ruiyi Zhang</title>
+      <link>/authors/ruiyi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding</title>
+      <link>/papers/zhang-llavar-2023/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-llavar-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Demonstration-based Learning Under Limited Data Scenario</title>
+      <link>/papers/zhang-robustness-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-robustness-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

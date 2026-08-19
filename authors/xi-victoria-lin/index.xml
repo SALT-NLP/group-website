@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Victoria Lin | Stanford SALT Lab</title>
+    <link>/authors/xi-victoria-lin/</link>
+      <atom:link href="/authors/xi-victoria-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Victoria Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Xi Victoria Lin</title>
+      <link>/authors/xi-victoria-lin/</link>
+    </image>
+    
+    <item>
+      <title>Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages</title>
+      <link>/papers/sun-pretty-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/sun-pretty-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

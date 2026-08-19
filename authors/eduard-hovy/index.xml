@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduard Hovy | Stanford SALT Lab</title>
+    <link>/authors/eduard-hovy/</link>
+      <atom:link href="/authors/eduard-hovy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduard Hovy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Eduard Hovy</title>
+      <link>/authors/eduard-hovy/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms</title>
+      <link>/papers/yang-modeling-oral/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-modeling-oral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Semantic Edit Intentions from Revisions in Wikipedia</title>
+      <link>/papers/yang-identifying-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-identifying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Attention Networks for Document Classification</title>
+      <link>/papers/yang-hierarchical-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-hierarchical-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who does What: Editor Role Identification in Wikipedia</title>
+      <link>/papers/yang-who-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-who-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

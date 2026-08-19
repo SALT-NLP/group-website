@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Bernstein | Stanford SALT Lab</title>
+    <link>/authors/michael-bernstein/</link>
+      <atom:link href="/authors/michael-bernstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Bernstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Michael Bernstein</title>
+      <link>/authors/michael-bernstein/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online Communities</title>
+      <link>/papers/dora-mapping-the-spiral-of-silence-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-mapping-the-spiral-of-silence-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Language Models with Demonstrated Feedback</title>
+      <link>/papers/shaikh-show-2024/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-show-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

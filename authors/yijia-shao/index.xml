@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yijia Shao | Stanford SALT Lab</title>
+    <link>/authors/yijia-shao/</link>
+      <atom:link href="/authors/yijia-shao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yijia Shao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yijia Shao</title>
+      <link>/authors/yijia-shao/</link>
+    </image>
+    
+    <item>
+      <title>Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</title>
+      <link>/papers/shao-future-of-work-2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-future-of-work-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration</title>
+      <link>/papers/shao-cogym-2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-cogym-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Language Models with Demonstrated Feedback</title>
+      <link>/papers/shaikh-show-2024/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-show-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</title>
+      <link>/papers/shao-privacylens-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-privacylens-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

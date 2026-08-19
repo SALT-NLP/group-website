@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omar Shaikh | Stanford SALT Lab</title>
+    <link>/authors/omar-shaikh/</link>
+      <atom:link href="/authors/omar-shaikh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omar Shaikh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Omar Shaikh</title>
+      <link>/authors/omar-shaikh/</link>
+    </image>
+    
+    <item>
+      <title>Creating General User Models from Computer Use</title>
+      <link>/papers/shaikh-creating-2025/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-creating-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs</title>
+      <link>/papers/ryan-synthesizeme-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-synthesizeme-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Language Models with Demonstrated Feedback</title>
+      <link>/papers/shaikh-show-2024/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-show-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Skill Training with Large Language Models</title>
+      <link>/papers/yang-social-skill-training-2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-social-skill-training-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rehearsal: Simulating Conflict to Teach Conflict Resolution</title>
+      <link>/papers/shaikh-rehearsal-2024/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-rehearsal-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Transform Computational Social Science?</title>
+      <link>/papers/ziems-can-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-can-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</title>
+      <link>/papers/shaikh-modeling-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Second Thought, Let&#39;s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning</title>
+      <link>/papers/shaikh-on-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-on-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization</title>
+      <link>/papers/wright-recast-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/wright-recast-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

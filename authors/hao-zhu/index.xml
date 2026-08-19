@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Zhu | Stanford SALT Lab</title>
+    <link>/authors/hao-zhu/</link>
+      <atom:link href="/authors/hao-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Hao Zhu</title>
+      <link>/authors/hao-zhu/</link>
+    </image>
+    
+    <item>
+      <title>AutoLibra: Agent Metric Induction from Open-Ended Human Feedback</title>
+      <link>/papers/zhu-autolibra-agent-metric-induction-from-open-ended-human-feedback-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-autolibra-agent-metric-induction-from-open-ended-human-feedback-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Dark Patterns Manipulate Web Agents</title>
+      <link>/papers/c-how-dark-patterns-manipulate-web-agents-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/c-how-dark-patterns-manipulate-web-agents-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Reasoning Agents in Evolving Environments</title>
+      <link>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EgoNormia: Benchmarking Physical Social Norm Understanding</title>
+      <link>/papers/rezaei-egonormia-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/rezaei-egonormia-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

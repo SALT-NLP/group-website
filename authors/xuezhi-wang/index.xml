@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuezhi Wang | Stanford SALT Lab</title>
+    <link>/authors/xuezhi-wang/</link>
+      <atom:link href="/authors/xuezhi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuezhi Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Xuezhi Wang</title>
+      <link>/authors/xuezhi-wang/</link>
+    </image>
+    
+    <item>
+      <title>Continual Sequence Generation with Adaptive Compositional Modules</title>
+      <link>/papers/zhang-continual-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-continual-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

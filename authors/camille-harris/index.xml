@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Harris | Stanford SALT Lab</title>
+    <link>/authors/camille-harris/</link>
+      <atom:link href="/authors/camille-harris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camille Harris</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Camille Harris</title>
+      <link>/authors/camille-harris/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Gender and Dialect Bias in Automatic Speech Recognition</title>
+      <link>/papers/camille-modeling-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/camille-modeling-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Black Content Creator Experiences on TikTok</title>
+      <link>/papers/harris-understanding-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/harris-understanding-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VALUE: Understanding Dialect Disparity in NLU</title>
+      <link>/papers/ziems-value-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-value-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

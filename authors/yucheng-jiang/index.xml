@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yucheng Jiang | Stanford SALT Lab</title>
+    <link>/authors/yucheng-jiang/</link>
+      <atom:link href="/authors/yucheng-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yucheng Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yucheng Jiang</title>
+      <link>/authors/yucheng-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</title>
+      <link>/papers/shao-future-of-work-2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-future-of-work-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration</title>
+      <link>/papers/shao-cogym-2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-cogym-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

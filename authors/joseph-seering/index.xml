@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph Seering | Stanford SALT Lab</title>
+    <link>/authors/joseph-seering/</link>
+      <atom:link href="/authors/joseph-seering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph Seering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Joseph Seering</title>
+      <link>/authors/joseph-seering/</link>
+    </image>
+    
+    <item>
+      <title>The Channel Matters: Self-disclosure, Reciprocity and Social Support in Online Cancer Support Groups</title>
+      <link>/papers/yang-the-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-the-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

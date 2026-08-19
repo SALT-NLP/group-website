@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Li | Stanford SALT Lab</title>
+    <link>/authors/ryan-li/</link>
+      <atom:link href="/authors/ryan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ryan Li</title>
+      <link>/authors/ryan-li/</link>
+    </image>
+    
+    <item>
+      <title>Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering</title>
+      <link>/papers/si-design2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-design2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping</title>
+      <link>/papers/li-sketch2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-sketch2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies</title>
+      <link>/papers/shi-culture-bank-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shi-culture-bank-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

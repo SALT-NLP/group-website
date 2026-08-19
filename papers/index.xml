@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Stanford SALT Lab</title>
+    <link>/papers/</link>
+      <atom:link href="/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Papers</title>
+      <link>/papers/</link>
+    </image>
+    
+    <item>
+      <title>Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study</title>
+      <link>/papers/bhattacharjee-generative-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/bhattacharjee-generative-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoLibra: Agent Metric Induction from Open-Ended Human Feedback</title>
+      <link>/papers/zhu-autolibra-agent-metric-induction-from-open-ended-human-feedback-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-autolibra-agent-metric-induction-from-open-ended-human-feedback-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoMetrics: Approximate Human Judgments with Automatically Generated Evaluators</title>
+      <link>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeClash: Benchmarking Goal-Oriented Software Engineering</title>
+      <link>/papers/yang-codeclash-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-codeclash-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualized Privacy Defense for LLM Agents</title>
+      <link>/papers/wen-contextualized-privacy-defense-for-llm-agents-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wen-contextualized-privacy-defense-for-llm-agents-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Dark Patterns Manipulate Web Agents</title>
+      <link>/papers/c-how-dark-patterns-manipulate-web-agents-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/c-how-dark-patterns-manipulate-web-agents-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HumanLM: Simulating Users with State Alignment Beats Response Imitation</title>
+      <link>/papers/wu-humanlm-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wu-humanlm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online Communities</title>
+      <link>/papers/dora-mapping-the-spiral-of-silence-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-mapping-the-spiral-of-silence-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Reasoning Agents in Evolving Environments</title>
+      <link>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Privacy Risks in LLM Agents via Simulation</title>
+      <link>/papers/zhang-searching-for-privacy-risks-in-llm-agents-via-simulation-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-searching-for-privacy-risks-in-llm-agents-via-simulation-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas</title>
+      <link>/papers/si-the-ideation-execution-gap-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/si-the-ideation-execution-gap-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Execution-Grounded Automated AI Research</title>
+      <link>/papers/si-towards-execution-grounded-automated-ai-research-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/si-towards-execution-grounded-automated-ai-research-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawaii</title>
+      <link>/papers/dora-whose-knowledge-counts-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-whose-knowledge-counts-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating General User Models from Computer Use</title>
+      <link>/papers/shaikh-creating-2025/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-creating-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blackbox Model Provenance via Palimpsestic Membership Inference</title>
+      <link>/papers/kuditipudi-blackbox-2025/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/kuditipudi-blackbox-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</title>
+      <link>/papers/shao-future-of-work-2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-future-of-work-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking Vision-Language Computer Agents via Pop-ups</title>
+      <link>/papers/zhang-attacking-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-attacking-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EgoNormia: Benchmarking Physical Social Norm Understanding</title>
+      <link>/papers/rezaei-egonormia-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/rezaei-egonormia-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPHERE: An Evaluation Card for Human-AI Systems</title>
+      <link>/papers/zhao-sphere-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/zhao-sphere-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs</title>
+      <link>/papers/ryan-synthesizeme-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-synthesizeme-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90&#43; Novice Counselors</title>
+      <link>/papers/louie-care-naturementalhealth-2025/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-care-naturementalhealth-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors</title>
+      <link>/papers/huang-estimating-2025/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-estimating-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWE-smith: Scaling Data for Software Engineering Agents</title>
+      <link>/papers/yang-swesmith-2025/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-swesmith-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration</title>
+      <link>/papers/shao-cogym-2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-cogym-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Pretraining Data Mixtures with LLM-Estimated Utility</title>
+      <link>/papers/held-optimizing-2025/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-optimizing-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Language Models with Demonstrated Feedback</title>
+      <link>/papers/shaikh-show-2024/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-show-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100&#43; NLP Researchers</title>
+      <link>/papers/si-research-idea-2025/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-research-idea-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Preference Left Behind: Group Distributional Preference Optimization</title>
+      <link>/papers/yao-gdpo-2025/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/yao-gdpo-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWE-bench Multimodal: Do Autonomous Programming Systems Generalize to New Software Domains</title>
+      <link>/papers/yang-swebench-multimodal-2025/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-swebench-multimodal-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering</title>
+      <link>/papers/si-design2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-design2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping</title>
+      <link>/papers/li-sketch2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-sketch2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph</title>
+      <link>/papers/zhang-darg-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-darg-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</title>
+      <link>/papers/shao-privacylens-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-privacylens-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Truths: A Large-Scale Dataset for Testing Robustness of AI-Generated Image Detectors</title>
+      <link>/papers/pal-semi-truths-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/pal-semi-truths-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Large Language Models Consistent over Value-laden Questions?</title>
+      <link>/papers/jared-are-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/jared-are-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking LLM-based Machine Translation on Cultural Awareness</title>
+      <link>/papers/yao-benchmarking-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/yao-benchmarking-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies</title>
+      <link>/papers/shi-culture-bank-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shi-culture-bank-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach</title>
+      <link>/papers/liu-decoding-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-decoding-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Verbatim Memorization in Large Language Models</title>
+      <link>/papers/huang-demystifying-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-demystifying-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Gender and Dialect Bias in Automatic Speech Recognition</title>
+      <link>/papers/camille-modeling-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/camille-modeling-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles</title>
+      <link>/papers/louie-roleplaydoh-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-roleplaydoh-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback</title>
+      <link>/papers/hsu-helping-arxiv2305/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/hsu-helping-arxiv2305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Practice of Online Peer Counseling and the Potential for AI-Powered Support Tools</title>
+      <link>/papers/wang-the-2024/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/wang-the-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditing Gender Presentation Differences in Text-to-Image Models</title>
+      <link>/papers/zhang-auditing-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-auditing-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization</title>
+      <link>/papers/liu-dynamic-2023/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dynamic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Skill Training with Large Language Models</title>
+      <link>/papers/yang-social-skill-training-2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-social-skill-training-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data </title>
+      <link>/papers/gerstgrasser-is-model-collapse-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/gerstgrasser-is-model-collapse-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Addressing Indexical Bias in Information Retrieval</title>
+      <link>/papers/ziems-measuring-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-measuring-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptions of Language Technology Failures from South Asian English Speakers</title>
+      <link>/papers/holt-perceptions-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/holt-perceptions-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles</title>
+      <link>/papers/kruk-silent-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-silent-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated Misinformation Susceptibility (SMISTS): Enhancing Misinformation Research with Large Language Model Simulations</title>
+      <link>/papers/ma-simulating-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ma-simulating-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors</title>
+      <link>/papers/chaszczewicz-multi-level-feedback-2024/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/chaszczewicz-multi-level-feedback-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future</title>
+      <link>/papers/li-social-intelligence-data-infra-2024/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/li-social-intelligence-data-infra-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unintended Impacts of LLM Alignment on Global Representation</title>
+      <link>/papers/ryan-unintended-impacts-2024/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-unintended-impacts-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rehearsal: Simulating Conflict to Teach Conflict Resolution</title>
+      <link>/papers/shaikh-rehearsal-2024/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-rehearsal-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyVal: Graph-informed Dynamic Evaluation of Large Language Models</title>
+      <link>/papers/zhu-dyval-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-dyval-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Socially Aligned Language Models on Simulated Social Interactions</title>
+      <link>/papers/liu-training-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-training-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchor Points: Benchmarking Models with Much Fewer Examples</title>
+      <link>/papers/vivek-anchor-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/vivek-anchor-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Makes Digital Support Effective? How Therapeutic Skills Affect Clinical Well-Being</title>
+      <link>/papers/fang-what-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/fang-what-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding</title>
+      <link>/papers/zhang-llavar-2023/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-llavar-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Transform Computational Social Science?</title>
+      <link>/papers/ziems-can-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-can-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation</title>
+      <link>/papers/li-coannotating-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/li-coannotating-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations</title>
+      <link>/papers/cheng-compost-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/cheng-compost-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules</title>
+      <link>/papers/liu-dada-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dada-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forgotten Knowledge: Examining the Citational Amnesia in NLP</title>
+      <link>/papers/singh-forgotten-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/singh-forgotten-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-in-the-loop Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-human-in-the-loop-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-human-in-the-loop-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressions: Visual Semiotics and Aesthetic Impact Understanding</title>
+      <link>/papers/kruk-impressions-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-impressions-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</title>
+      <link>/papers/shaikh-modeling-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-VALUE: A Framework for Cross-Dialectal English NLP</title>
+      <link>/papers/ziems-multi-value-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-multi-value-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NormBank: A Knowledge Bank of Situational Social Norms</title>
+      <link>/papers/ziems-normbank-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-normbank-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Second Thought, Let&#39;s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning</title>
+      <link>/papers/shaikh-on-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-on-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter-Efficient Fine-Tuning Design Spaces</title>
+      <link>/papers/chen-parameter-efficient-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-parameter-efficient-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shapley Head Pruning: Identifying and Removing Interference in Multilingual Transformers</title>
+      <link>/papers/held-shapley-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/held-shapley-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Agnostic Dialect Adapters for English</title>
+      <link>/papers/held-task-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/held-task-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Black Content Creator Experiences on TikTok</title>
+      <link>/papers/harris-understanding-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/harris-understanding-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlearn What You Want to Forget: Efficient Unlearning for LLMs</title>
+      <link>/papers/chen-unlearn-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-unlearn-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Large Language Models in Psychology</title>
+      <link>/papers/demszky-using-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/demszky-using-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Sequence Generation with Adaptive Compositional Modules</title>
+      <link>/papers/zhang-continual-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-continual-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic Citation Gaps in NLP Research</title>
+      <link>/papers/rungta-geographic-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/rungta-geographic-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNN is a Counter? Revisiting GNN for Question Answering</title>
+      <link>/papers/wang-gnn-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/wang-gnn-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Positive Perspectives with Text Reframing</title>
+      <link>/papers/ziems-inducing-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-inducing-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Motivational Interviewing Strategies On Online Peer-to-Peer Counseling Platforms</title>
+      <link>/papers/shah-modeling-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/shah-modeling-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages</title>
+      <link>/papers/sun-pretty-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/sun-pretty-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Demonstration-based Learning Under Limited Data Scenario</title>
+      <link>/papers/zhang-robustness-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-robustness-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding</title>
+      <link>/papers/zhang-treemix-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-treemix-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VALUE: Understanding Dialect Disparity in NLU</title>
+      <link>/papers/ziems-value-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-value-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will AI Console Me when I Lose my Pet? Understanding Perceptions of AI-Mediated Email Writing</title>
+      <link>/papers/liu-will-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-will-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Text Classification with Information Disentanglement Based Regularization</title>
+      <link>/papers/huang-continual-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-continual-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter</title>
+      <link>/papers/jhaver-evaluating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/jhaver-evaluating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Hatred: A Benchmark for Understanding Implicit Hate Speech</title>
+      <link>/papers/elsherief-latent-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/elsherief-latent-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting Humans in the Natural Language Processing Loop: A Survey</title>
+      <link>/papers/wang-putting-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/wang-putting-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization</title>
+      <link>/papers/wright-recast-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/wright-recast-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-simple-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-simple-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs</title>
+      <link>/papers/chen-structure-aware-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-structure-aware-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Importance of Modeling Social Factors of Language: Theory and Practice</title>
+      <link>/papers/hovy-the-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/hovy-the-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Protect and To Serve? Analyzing Entity-Centric Framing of Police Violence</title>
+      <link>/papers/ziems-to-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-to-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Usage of Online Media for Parenting from Infancy to Preschool At Scale</title>
+      <link>/papers/gao-understanding-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/gao-understanding-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Neutralizing Subjective Bias in Text</title>
+      <link>/papers/pryzant-automatically-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/pryzant-automatically-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Collective Attention via Descriptor Context: A Case Study of Public Discussions of Crisis Events</title>
+      <link>/papers/stewart-characterizing-2023/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/stewart-characterizing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification</title>
+      <link>/papers/chen-mixtext-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-mixtext-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-multi-view-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-multi-view-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is a Problem, Don’t You Agree? Framing and Bias in Human Evaluation for Natural Language Generation</title>
+      <link>/papers/schoch-problem-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/schoch-problem-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms</title>
+      <link>/papers/yang-modeling-oral/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-modeling-oral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seekers, Providers, Welcomers, and Storytellers: Modeling Social Roles in Online Health Communities</title>
+      <link>/papers/yang-seekers-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-seekers-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Channel Matters: Self-disclosure, Reciprocity and Social Support in Online Cancer Support Groups</title>
+      <link>/papers/yang-the-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-the-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commitment of Newcomers and Old-timers to Online Health Support Communities</title>
+      <link>/papers/yang-commitment-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-commitment-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Semantic Edit Intentions from Revisions in Wikipedia</title>
+      <link>/papers/yang-identifying-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-identifying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Attention Networks for Document Classification</title>
+      <link>/papers/yang-hierarchical-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-hierarchical-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who does What: Editor Role Identification in Wikipedia</title>
+      <link>/papers/yang-who-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-who-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

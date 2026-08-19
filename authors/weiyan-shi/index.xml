@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiyan Shi | Stanford SALT Lab</title>
+    <link>/authors/weiyan-shi/</link>
+      <atom:link href="/authors/weiyan-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiyan Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Weiyan Shi</title>
+      <link>/authors/weiyan-shi/</link>
+    </image>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</title>
+      <link>/papers/shao-privacylens-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-privacylens-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies</title>
+      <link>/papers/shi-culture-bank-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shi-culture-bank-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach</title>
+      <link>/papers/liu-decoding-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-decoding-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future</title>
+      <link>/papers/li-social-intelligence-data-infra-2024/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/li-social-intelligence-data-infra-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Zhenqiang Gong | Stanford SALT Lab</title>
+    <link>/authors/neil-zhenqiang-gong/</link>
+      <atom:link href="/authors/neil-zhenqiang-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Zhenqiang Gong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Neil Zhenqiang Gong</title>
+      <link>/authors/neil-zhenqiang-gong/</link>
+    </image>
+    
+    <item>
+      <title>DyVal: Graph-informed Dynamic Evaluation of Large Language Models</title>
+      <link>/papers/zhu-dyval-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-dyval-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

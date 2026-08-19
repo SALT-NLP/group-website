@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Jurafsky | Stanford SALT Lab</title>
+    <link>/authors/dan-jurafsky/</link>
+      <atom:link href="/authors/dan-jurafsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Jurafsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Dan Jurafsky</title>
+      <link>/authors/dan-jurafsky/</link>
+    </image>
+    
+    <item>
+      <title>Automatically Neutralizing Subjective Bias in Text</title>
+      <link>/papers/pryzant-automatically-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/pryzant-automatically-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms</title>
+      <link>/papers/yang-modeling-oral/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-modeling-oral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seekers, Providers, Welcomers, and Storytellers: Modeling Social Roles in Online Health Communities</title>
+      <link>/papers/yang-seekers-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-seekers-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Kraut | Stanford SALT Lab</title>
+    <link>/authors/robert-kraut/</link>
+      <atom:link href="/authors/robert-kraut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Kraut</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Robert Kraut</title>
+      <link>/authors/robert-kraut/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors</title>
+      <link>/papers/chaszczewicz-multi-level-feedback-2024/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/chaszczewicz-multi-level-feedback-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Makes Digital Support Effective? How Therapeutic Skills Affect Clinical Well-Being</title>
+      <link>/papers/fang-what-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/fang-what-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Motivational Interviewing Strategies On Online Peer-to-Peer Counseling Platforms</title>
+      <link>/papers/shah-modeling-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/shah-modeling-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seekers, Providers, Welcomers, and Storytellers: Modeling Social Roles in Online Health Communities</title>
+      <link>/papers/yang-seekers-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-seekers-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Channel Matters: Self-disclosure, Reciprocity and Social Support in Online Cancer Support Groups</title>
+      <link>/papers/yang-the-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-the-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commitment of Newcomers and Old-timers to Online Health Support Communities</title>
+      <link>/papers/yang-commitment-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-commitment-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Semantic Edit Intentions from Revisions in Wikipedia</title>
+      <link>/papers/yang-identifying-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-identifying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who does What: Editor Role Identification in Wikipedia</title>
+      <link>/papers/yang-who-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-who-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

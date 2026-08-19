@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Yu | Stanford SALT Lab</title>
+    <link>/authors/tao-yu/</link>
+      <atom:link href="/authors/tao-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Tao Yu</title>
+      <link>/authors/tao-yu/</link>
+    </image>
+    
+    <item>
+      <title>Attacking Vision-Language Computer Agents via Pop-ups</title>
+      <link>/papers/zhang-attacking-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-attacking-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
