@@ -10,12 +10,19 @@ set -euo pipefail
 REPO_URL="https://github.com/SALT-NLP/group-website.git"
 BRANCH="deploy"
 CLONE_DIR="$HOME/deploy-repo"
-DOCROOT="$HOME/www"
+DOCROOT="$HOME/saltlab.stanford.edu"
 LOG_FILE="$HOME/pull-deploy.log"
 LOCK_FILE="$HOME/pull-deploy.lock"
+STALE_SECONDS=900
 
-exec 200>"$LOCK_FILE"
-flock -n 200 || exit 0
+if [ -e "$LOCK_FILE" ]; then
+    LOCK_AGE=$(( $(date +%s) - $(stat -c %Y "$LOCK_FILE" 2>/dev/null || stat -f %m "$LOCK_FILE") ))
+    if [ "$LOCK_AGE" -lt "$STALE_SECONDS" ] && kill -0 "$(cat "$LOCK_FILE")" 2>/dev/null; then
+        exit 0
+    fi
+fi
+echo $$ > "$LOCK_FILE"
+trap 'rm -f "$LOCK_FILE"' EXIT
 
 log() {
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" >> "$LOG_FILE"
