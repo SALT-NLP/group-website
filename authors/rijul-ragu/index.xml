@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rijul Ragu | Stanford SALT Lab</title>
+    <link>/authors/rijul-ragu/</link>
+      <atom:link href="/authors/rijul-ragu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rijul Ragu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Rijul Ragu</title>
+      <link>/authors/rijul-ragu/</link>
+    </image>
+    
+    <item>
+      <title>Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles</title>
+      <link>/papers/kruk-silent-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-silent-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

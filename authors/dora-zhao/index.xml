@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dora Zhao | Stanford SALT Lab</title>
+    <link>/authors/dora-zhao/</link>
+      <atom:link href="/authors/dora-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dora Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Dora Zhao</title>
+      <link>/authors/dora-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online Communities</title>
+      <link>/papers/dora-mapping-the-spiral-of-silence-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-mapping-the-spiral-of-silence-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawaii</title>
+      <link>/papers/dora-whose-knowledge-counts-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-whose-knowledge-counts-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPHERE: An Evaluation Card for Human-AI Systems</title>
+      <link>/papers/zhao-sphere-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/zhao-sphere-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

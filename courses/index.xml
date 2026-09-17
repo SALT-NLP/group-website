@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Stanford SALT Lab</title>
+    <link>/courses/</link>
+      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Courses</title>
+      <link>/courses/</link>
+    </image>
+    
+    <item>
+      <title>CS 329X: Human-Centered NLP</title>
+      <link>/courses/cs329x_f2024/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/courses/cs329x_f2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 224N: Natural Language Processing with Deep Learning</title>
+      <link>/courses/cs224n_w2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/courses/cs224n_w2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 329X: Human-Centered NLP</title>
+      <link>/courses/cs329x_s2023/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/cs329x_s2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 224C: NLP for Computational Social Science</title>
+      <link>/courses/cs224c_w2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/courses/cs224c_w2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 6471: Computational Social Science</title>
+      <link>/courses/cs6471/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/courses/cs6471/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 4650: Natural Language Processing</title>
+      <link>/courses/cs4650/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/cs4650/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 8001: NLP and Social Interaction</title>
+      <link>/courses/cs8001_f21/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/cs8001_f21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS 8001: Deep Learning for NLP Seminar</title>
+      <link>/courses/cs8001/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/courses/cs8001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>11411/11611: Natural Language Processing</title>
+      <link>/courses/11411/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/courses/11411/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

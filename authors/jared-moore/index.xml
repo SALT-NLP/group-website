@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared Moore | Stanford SALT Lab</title>
+    <link>/authors/jared-moore/</link>
+      <atom:link href="/authors/jared-moore/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jared Moore</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Jared Moore</title>
+      <link>/authors/jared-moore/</link>
+    </image>
+    
+    <item>
+      <title>Are Large Language Models Consistent over Value-laden Questions?</title>
+      <link>/papers/jared-are-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/jared-are-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

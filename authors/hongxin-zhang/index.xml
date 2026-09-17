@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongxin Zhang | Stanford SALT Lab</title>
+    <link>/authors/hongxin-zhang/</link>
+      <atom:link href="/authors/hongxin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongxin Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Hongxin Zhang</title>
+      <link>/authors/hongxin-zhang/</link>
+    </image>
+    
+    <item>
+      <title>On Second Thought, Let&#39;s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning</title>
+      <link>/papers/shaikh-on-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-on-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Demonstration-based Learning Under Limited Data Scenario</title>
+      <link>/papers/zhang-robustness-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-robustness-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

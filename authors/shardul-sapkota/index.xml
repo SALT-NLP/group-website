@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shardul Sapkota | Stanford SALT Lab</title>
+    <link>/authors/shardul-sapkota/</link>
+      <atom:link href="/authors/shardul-sapkota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shardul Sapkota</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Shardul Sapkota</title>
+      <link>/authors/shardul-sapkota/</link>
+    </image>
+    
+    <item>
+      <title>Creating General User Models from Computer Use</title>
+      <link>/papers/shaikh-creating-2025/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-creating-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

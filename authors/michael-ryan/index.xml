@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Ryan | Stanford SALT Lab</title>
+    <link>/authors/michael-ryan/</link>
+      <atom:link href="/authors/michael-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Ryan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Michael Ryan</title>
+      <link>/authors/michael-ryan/</link>
+    </image>
+    
+    <item>
+      <title>AutoMetrics: Approximate Human Judgments with Automatically Generated Evaluators</title>
+      <link>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawaii</title>
+      <link>/papers/dora-whose-knowledge-counts-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/dora-whose-knowledge-counts-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs</title>
+      <link>/papers/ryan-synthesizeme-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-synthesizeme-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unintended Impacts of LLM Alignment on Global Representation</title>
+      <link>/papers/ryan-unintended-impacts-2024/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-unintended-impacts-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

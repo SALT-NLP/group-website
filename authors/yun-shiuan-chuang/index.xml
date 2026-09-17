@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yun-Shiuan Chuang | Stanford SALT Lab</title>
+    <link>/authors/yun-shiuan-chuang/</link>
+      <atom:link href="/authors/yun-shiuan-chuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yun-Shiuan Chuang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yun-Shiuan Chuang</title>
+      <link>/authors/yun-shiuan-chuang/</link>
+    </image>
+    
+    <item>
+      <title>No Preference Left Behind: Group Distributional Preference Optimization</title>
+      <link>/papers/yao-gdpo-2025/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/yao-gdpo-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

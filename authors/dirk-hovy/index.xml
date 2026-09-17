@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirk Hovy | Stanford SALT Lab</title>
+    <link>/authors/dirk-hovy/</link>
+      <atom:link href="/authors/dirk-hovy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirk Hovy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Dirk Hovy</title>
+      <link>/authors/dirk-hovy/</link>
+    </image>
+    
+    <item>
+      <title>The Importance of Modeling Social Factors of Language: Theory and Practice</title>
+      <link>/papers/hovy-the-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/hovy-the-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

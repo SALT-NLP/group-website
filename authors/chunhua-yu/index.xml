@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunhua Yu | Stanford SALT Lab</title>
+    <link>/authors/chunhua-yu/</link>
+      <atom:link href="/authors/chunhua-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chunhua Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Chunhua Yu</title>
+      <link>/authors/chunhua-yu/</link>
+    </image>
+    
+    <item>
+      <title>CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies</title>
+      <link>/papers/shi-culture-bank-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shi-culture-bank-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

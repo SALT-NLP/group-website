@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Held | Stanford SALT Lab</title>
+    <link>/authors/william-held/</link>
+      <atom:link href="/authors/william-held/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Held</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>William Held</title>
+      <link>/authors/william-held/</link>
+    </image>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs</title>
+      <link>/papers/ryan-synthesizeme-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-synthesizeme-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Pretraining Data Mixtures with LLM-Estimated Utility</title>
+      <link>/papers/held-optimizing-2025/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-optimizing-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Skill Training with Large Language Models</title>
+      <link>/papers/yang-social-skill-training-2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-social-skill-training-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Addressing Indexical Bias in Information Retrieval</title>
+      <link>/papers/ziems-measuring-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-measuring-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptions of Language Technology Failures from South Asian English Speakers</title>
+      <link>/papers/holt-perceptions-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/holt-perceptions-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unintended Impacts of LLM Alignment on Global Representation</title>
+      <link>/papers/ryan-unintended-impacts-2024/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-unintended-impacts-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Transform Computational Social Science?</title>
+      <link>/papers/ziems-can-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-can-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules</title>
+      <link>/papers/liu-dada-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dada-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</title>
+      <link>/papers/shaikh-modeling-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-VALUE: A Framework for Cross-Dialectal English NLP</title>
+      <link>/papers/ziems-multi-value-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-multi-value-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Second Thought, Let&#39;s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning</title>
+      <link>/papers/shaikh-on-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-on-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shapley Head Pruning: Identifying and Removing Interference in Multilingual Transformers</title>
+      <link>/papers/held-shapley-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/held-shapley-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Agnostic Dialect Adapters for English</title>
+      <link>/papers/held-task-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/held-task-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

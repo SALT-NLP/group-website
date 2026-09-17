@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony Wang | Stanford SALT Lab</title>
+    <link>/authors/tony-wang/</link>
+      <atom:link href="/authors/tony-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tony Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Tony Wang</title>
+      <link>/authors/tony-wang/</link>
+    </image>
+    
+    <item>
+      <title>The Practice of Online Peer Counseling and the Potential for AI-Powered Support Tools</title>
+      <link>/papers/wang-the-2024/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/wang-the-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

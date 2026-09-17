@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Muchlinski | Stanford SALT Lab</title>
+    <link>/authors/david-muchlinski/</link>
+      <atom:link href="/authors/david-muchlinski/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Muchlinski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>David Muchlinski</title>
+      <link>/authors/david-muchlinski/</link>
+    </image>
+    
+    <item>
+      <title>Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles</title>
+      <link>/papers/kruk-silent-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-silent-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Hatred: A Benchmark for Understanding Implicit Hate Speech</title>
+      <link>/papers/elsherief-latent-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/elsherief-latent-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

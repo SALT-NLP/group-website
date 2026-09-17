@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaao Chen | Stanford SALT Lab</title>
+    <link>/authors/jiaao-chen/</link>
+      <atom:link href="/authors/jiaao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiaao Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Jiaao Chen</title>
+      <link>/authors/jiaao-chen/</link>
+    </image>
+    
+    <item>
+      <title>DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph</title>
+      <link>/papers/zhang-darg-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-darg-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach</title>
+      <link>/papers/liu-decoding-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-decoding-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyVal: Graph-informed Dynamic Evaluation of Large Language Models</title>
+      <link>/papers/zhu-dyval-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-dyval-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Transform Computational Social Science?</title>
+      <link>/papers/ziems-can-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-can-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-in-the-loop Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-human-in-the-loop-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-human-in-the-loop-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter-Efficient Fine-Tuning Design Spaces</title>
+      <link>/papers/chen-parameter-efficient-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-parameter-efficient-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlearn What You Want to Forget: Efficient Unlearning for LLMs</title>
+      <link>/papers/chen-unlearn-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-unlearn-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VALUE: Understanding Dialect Disparity in NLU</title>
+      <link>/papers/ziems-value-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-value-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Text Classification with Information Disentanglement Based Regularization</title>
+      <link>/papers/huang-continual-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-continual-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-simple-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-simple-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs</title>
+      <link>/papers/chen-structure-aware-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-structure-aware-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification</title>
+      <link>/papers/chen-mixtext-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-mixtext-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization</title>
+      <link>/papers/chen-multi-view-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/chen-multi-view-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms</title>
+      <link>/papers/yang-modeling-oral/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-modeling-oral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunat Pipatanakul | Stanford SALT Lab</title>
+    <link>/authors/kunat-pipatanakul/</link>
+      <atom:link href="/authors/kunat-pipatanakul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kunat Pipatanakul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Kunat Pipatanakul</title>
+      <link>/authors/kunat-pipatanakul/</link>
+    </image>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

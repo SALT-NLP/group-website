@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Liu | Stanford SALT Lab</title>
+    <link>/authors/yang-liu/</link>
+      <atom:link href="/authors/yang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yang Liu</title>
+      <link>/authors/yang-liu/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization</title>
+      <link>/papers/liu-dynamic-2023/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dynamic-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

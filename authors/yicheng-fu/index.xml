@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yicheng Fu* | Stanford SALT Lab</title>
+    <link>/authors/yicheng-fu/</link>
+      <atom:link href="/authors/yicheng-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yicheng Fu*</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yicheng Fu*</title>
+      <link>/authors/yicheng-fu/</link>
+    </image>
+    
+    <item>
+      <title>EgoNormia: Benchmarking Physical Social Norm Understanding</title>
+      <link>/papers/rezaei-egonormia-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/rezaei-egonormia-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

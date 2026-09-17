@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhengyuan Yang | Stanford SALT Lab</title>
+    <link>/authors/zhengyuan-yang/</link>
+      <atom:link href="/authors/zhengyuan-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhengyuan Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Zhengyuan Yang</title>
+      <link>/authors/zhengyuan-yang/</link>
+    </image>
+    
+    <item>
+      <title>Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering</title>
+      <link>/papers/si-design2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-design2code-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

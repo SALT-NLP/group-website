@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanzhe Zhang | Stanford SALT Lab</title>
+    <link>/authors/yanzhe-zhang/</link>
+      <atom:link href="/authors/yanzhe-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanzhe Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yanzhe Zhang</title>
+      <link>/authors/yanzhe-zhang/</link>
+    </image>
+    
+    <item>
+      <title>AutoMetrics: Approximate Human Judgments with Automatically Generated Evaluators</title>
+      <link>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/ryan-autometrics-approximate-human-judgments-with-automatically-generated-evaluators-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualized Privacy Defense for LLM Agents</title>
+      <link>/papers/wen-contextualized-privacy-defense-for-llm-agents-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wen-contextualized-privacy-defense-for-llm-agents-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Reasoning Agents in Evolving Environments</title>
+      <link>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/wen-real-time-reasoning-agents-in-evolving-environments-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Privacy Risks in LLM Agents via Simulation</title>
+      <link>/papers/zhang-searching-for-privacy-risks-in-llm-agents-via-simulation-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-searching-for-privacy-risks-in-llm-agents-via-simulation-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking Vision-Language Computer Agents via Pop-ups</title>
+      <link>/papers/zhang-attacking-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-attacking-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EgoNormia: Benchmarking Physical Social Norm Understanding</title>
+      <link>/papers/rezaei-egonormia-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/rezaei-egonormia-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWE-smith: Scaling Data for Software Engineering Agents</title>
+      <link>/papers/yang-swesmith-2025/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-swesmith-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design2Code: Benchmarking Multimodal Code Generation for Automated Front-End Engineering</title>
+      <link>/papers/si-design2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-design2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping</title>
+      <link>/papers/li-sketch2code-2024/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-sketch2code-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditing Gender Presentation Differences in Text-to-Image Models</title>
+      <link>/papers/zhang-auditing-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-auditing-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization</title>
+      <link>/papers/liu-dynamic-2023/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dynamic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding</title>
+      <link>/papers/zhang-llavar-2023/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-llavar-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Sequence Generation with Adaptive Compositional Modules</title>
+      <link>/papers/zhang-continual-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-continual-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of Demonstration-based Learning Under Limited Data Scenario</title>
+      <link>/papers/zhang-robustness-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-robustness-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Text Classification with Information Disentanglement Based Regularization</title>
+      <link>/papers/huang-continual-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-continual-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

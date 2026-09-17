@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephanie Schoch | Stanford SALT Lab</title>
+    <link>/authors/stephanie-schoch/</link>
+      <atom:link href="/authors/stephanie-schoch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephanie Schoch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Stephanie Schoch</title>
+      <link>/authors/stephanie-schoch/</link>
+    </image>
+    
+    <item>
+      <title>This is a Problem, Don’t You Agree? Framing and Bias in Human Evaluation for Natural Language Generation</title>
+      <link>/papers/schoch-problem-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/papers/schoch-problem-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

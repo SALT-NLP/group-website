@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judy Hoffman | Stanford SALT Lab</title>
+    <link>/authors/judy-hoffman/</link>
+      <atom:link href="/authors/judy-hoffman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judy Hoffman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Judy Hoffman</title>
+      <link>/authors/judy-hoffman/</link>
+    </image>
+    
+    <item>
+      <title>Semi-Truths: A Large-Scale Dataset for Testing Robustness of AI-Generated Image Detectors</title>
+      <link>/papers/pal-semi-truths-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/pal-semi-truths-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

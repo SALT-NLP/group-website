@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Icard | Stanford SALT Lab</title>
+    <link>/authors/thomas-icard/</link>
+      <atom:link href="/authors/thomas-icard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Icard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Thomas Icard</title>
+      <link>/authors/thomas-icard/</link>
+    </image>
+    
+    <item>
+      <title>Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors</title>
+      <link>/papers/huang-estimating-2025/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/huang-estimating-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

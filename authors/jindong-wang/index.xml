@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jindong Wang | Stanford SALT Lab</title>
+    <link>/authors/jindong-wang/</link>
+      <atom:link href="/authors/jindong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jindong Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Jindong Wang</title>
+      <link>/authors/jindong-wang/</link>
+    </image>
+    
+    <item>
+      <title>DyVal: Graph-informed Dynamic Evaluation of Large Language Models</title>
+      <link>/papers/zhu-dyval-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhu-dyval-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi-Chia Wang | Stanford SALT Lab</title>
+    <link>/authors/yi-chia-wang/</link>
+      <atom:link href="/authors/yi-chia-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi-Chia Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yi-Chia Wang</title>
+      <link>/authors/yi-chia-wang/</link>
+    </image>
+    
+    <item>
+      <title>NormBank: A Knowledge Bank of Situational Social Norms</title>
+      <link>/papers/ziems-normbank-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-normbank-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Motivational Interviewing Strategies On Online Peer-to-Peer Counseling Platforms</title>
+      <link>/papers/shah-modeling-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/shah-modeling-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
