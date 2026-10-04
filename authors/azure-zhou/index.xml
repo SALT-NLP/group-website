@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Zhou | Stanford SALT Lab</title>
+    <link>/authors/azure-zhou/</link>
+      <atom:link href="/authors/azure-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Azure Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Azure Zhou</title>
+      <link>/authors/azure-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach</title>
+      <link>/papers/liu-decoding-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-decoding-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

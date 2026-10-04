@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanchen Liu | Stanford SALT Lab</title>
+    <link>/authors/yanchen-liu/</link>
+      <atom:link href="/authors/yanchen-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanchen Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Yanchen Liu</title>
+      <link>/authors/yanchen-liu/</link>
+    </image>
+    
+    <item>
+      <title>PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</title>
+      <link>/papers/shao-privacylens-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shao-privacylens-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach</title>
+      <link>/papers/liu-decoding-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-decoding-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules</title>
+      <link>/papers/liu-dada-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-dada-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

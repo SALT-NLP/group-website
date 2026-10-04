@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ella Li | Stanford SALT Lab</title>
+    <link>/authors/ella-li/</link>
+      <atom:link href="/authors/ella-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ella Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ella Li</title>
+      <link>/authors/ella-li/</link>
+    </image>
+    
+    <item>
+      <title>Distilling an End-to-End Voice Assistant Without Instruction Training Data</title>
+      <link>/papers/held-diva-2024/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/held-diva-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Static and Interactive Evaluations of Large Audio Models</title>
+      <link>/papers/li-mind-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/li-mind-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation</title>
+      <link>/papers/li-coannotating-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/li-coannotating-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

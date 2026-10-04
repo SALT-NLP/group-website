@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min-Yen Kan | Stanford SALT Lab</title>
+    <link>/authors/min-yen-kan/</link>
+      <atom:link href="/authors/min-yen-kan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min-Yen Kan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Min-Yen Kan</title>
+      <link>/authors/min-yen-kan/</link>
+    </image>
+    
+    <item>
+      <title>CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation</title>
+      <link>/papers/li-coannotating-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/li-coannotating-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

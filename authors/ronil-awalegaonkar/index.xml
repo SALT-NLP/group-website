@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronil Awalegaonkar | Stanford SALT Lab</title>
+    <link>/authors/ronil-awalegaonkar/</link>
+      <atom:link href="/authors/ronil-awalegaonkar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronil Awalegaonkar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ronil Awalegaonkar</title>
+      <link>/authors/ronil-awalegaonkar/</link>
+    </image>
+    
+    <item>
+      <title>Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages</title>
+      <link>/papers/sun-pretty-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/sun-pretty-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

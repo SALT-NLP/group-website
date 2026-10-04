@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valerie Chen | Stanford SALT Lab</title>
+    <link>/authors/valerie-chen/</link>
+      <atom:link href="/authors/valerie-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valerie Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Valerie Chen</title>
+      <link>/authors/valerie-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

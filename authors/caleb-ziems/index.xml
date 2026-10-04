@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caleb Ziems | Stanford SALT Lab</title>
+    <link>/authors/caleb-ziems/</link>
+      <atom:link href="/authors/caleb-ziems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caleb Ziems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Caleb Ziems</title>
+      <link>/authors/caleb-ziems/</link>
+    </image>
+    
+    <item>
+      <title>EgoNormia: Benchmarking Physical Social Norm Understanding</title>
+      <link>/papers/rezaei-egonormia-2025/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/rezaei-egonormia-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies</title>
+      <link>/papers/shi-culture-bank-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/shi-culture-bank-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Skill Training with Large Language Models</title>
+      <link>/papers/yang-social-skill-training-2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/yang-social-skill-training-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Addressing Indexical Bias in Information Retrieval</title>
+      <link>/papers/ziems-measuring-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-measuring-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles</title>
+      <link>/papers/kruk-silent-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-silent-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Intelligence Data Infrastructure: Structuring the Present and Navigating the Future</title>
+      <link>/papers/li-social-intelligence-data-infra-2024/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/li-social-intelligence-data-infra-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Transform Computational Social Science?</title>
+      <link>/papers/ziems-can-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-can-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation</title>
+      <link>/papers/li-coannotating-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/li-coannotating-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressions: Visual Semiotics and Aesthetic Impact Understanding</title>
+      <link>/papers/kruk-impressions-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-impressions-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Cross-Cultural Pragmatic Inference with Codenames Duet</title>
+      <link>/papers/shaikh-modeling-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-VALUE: A Framework for Cross-Dialectal English NLP</title>
+      <link>/papers/ziems-multi-value-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-multi-value-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NormBank: A Knowledge Bank of Situational Social Norms</title>
+      <link>/papers/ziems-normbank-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-normbank-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Agnostic Dialect Adapters for English</title>
+      <link>/papers/held-task-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/held-task-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Positive Perspectives with Text Reframing</title>
+      <link>/papers/ziems-inducing-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-inducing-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VALUE: Understanding Dialect Disparity in NLU</title>
+      <link>/papers/ziems-value-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-value-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Hatred: A Benchmark for Understanding Implicit Hate Speech</title>
+      <link>/papers/elsherief-latent-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/elsherief-latent-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Protect and To Serve? Analyzing Entity-Centric Framing of Police Violence</title>
+      <link>/papers/ziems-to-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-to-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

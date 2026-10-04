@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desmond Ong | Stanford SALT Lab</title>
+    <link>/authors/desmond-ong/</link>
+      <atom:link href="/authors/desmond-ong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Desmond Ong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Desmond Ong</title>
+      <link>/authors/desmond-ong/</link>
+    </image>
+    
+    <item>
+      <title>Verbalizing LLMs&#39; assumptions to explain and control sycophancy</title>
+      <link>/papers/cheng-verbalizing-llms-assumptions-2026/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/cheng-verbalizing-llms-assumptions-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

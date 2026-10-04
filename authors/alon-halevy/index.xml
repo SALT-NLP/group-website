@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alon Halevy | Stanford SALT Lab</title>
+    <link>/authors/alon-halevy/</link>
+      <atom:link href="/authors/alon-halevy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alon Halevy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Alon Halevy</title>
+      <link>/authors/alon-halevy/</link>
+    </image>
+    
+    <item>
+      <title>NormBank: A Knowledge Bank of Situational Social Norms</title>
+      <link>/papers/ziems-normbank-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/ziems-normbank-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

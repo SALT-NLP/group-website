@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anushk Mittal | Stanford SALT Lab</title>
+    <link>/authors/anushk-mittal/</link>
+      <atom:link href="/authors/anushk-mittal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anushk Mittal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Anushk Mittal</title>
+      <link>/authors/anushk-mittal/</link>
+    </image>
+    
+    <item>
+      <title>Will AI Console Me when I Lose my Pet? Understanding Perceptions of AI-Mediated Email Writing</title>
+      <link>/papers/liu-will-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/papers/liu-will-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

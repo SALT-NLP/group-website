@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Wang | Stanford SALT Lab</title>
+    <link>/authors/jennifer-wang/</link>
+      <atom:link href="/authors/jennifer-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Jennifer Wang</title>
+      <link>/authors/jennifer-wang/</link>
+    </image>
+    
+    <item>
+      <title>Offloading Score: Measuring AI Reliance Through Counterfactual Workflows</title>
+      <link>/papers/padmakumar-offloading-score-2026/</link>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/padmakumar-offloading-score-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

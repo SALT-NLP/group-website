@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Kruk | Stanford SALT Lab</title>
+    <link>/authors/julia-kruk/</link>
+      <atom:link href="/authors/julia-kruk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia Kruk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Julia Kruk</title>
+      <link>/authors/julia-kruk/</link>
+    </image>
+    
+    <item>
+      <title>Semi-Truths: A Large-Scale Dataset for Testing Robustness of AI-Generated Image Detectors</title>
+      <link>/papers/pal-semi-truths-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/pal-semi-truths-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles</title>
+      <link>/papers/kruk-silent-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-silent-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressions: Visual Semiotics and Aesthetic Impact Understanding</title>
+      <link>/papers/kruk-impressions-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/kruk-impressions-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

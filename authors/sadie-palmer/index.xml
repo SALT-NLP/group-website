@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sadie Palmer | Stanford SALT Lab</title>
+    <link>/authors/sadie-palmer/</link>
+      <atom:link href="/authors/sadie-palmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sadie Palmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Sadie Palmer</title>
+      <link>/authors/sadie-palmer/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Black Content Creator Experiences on TikTok</title>
+      <link>/papers/harris-understanding-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/papers/harris-understanding-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

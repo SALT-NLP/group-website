@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shagun Jhaver | Stanford SALT Lab</title>
+    <link>/authors/shagun-jhaver/</link>
+      <atom:link href="/authors/shagun-jhaver/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shagun Jhaver</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Shagun Jhaver</title>
+      <link>/authors/shagun-jhaver/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter</title>
+      <link>/papers/jhaver-evaluating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/papers/jhaver-evaluating-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

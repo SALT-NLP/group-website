@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greg Turk | Stanford SALT Lab</title>
+    <link>/authors/greg-turk/</link>
+      <atom:link href="/authors/greg-turk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greg Turk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Greg Turk</title>
+      <link>/authors/greg-turk/</link>
+    </image>
+    
+    <item>
+      <title>Auditing Gender Presentation Differences in Text-to-Image Models</title>
+      <link>/papers/zhang-auditing-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/zhang-auditing-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

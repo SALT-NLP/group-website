@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lujain Ibrahim | Stanford SALT Lab</title>
+    <link>/authors/lujain-ibrahim/</link>
+      <atom:link href="/authors/lujain-ibrahim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lujain Ibrahim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Lujain Ibrahim</title>
+      <link>/authors/lujain-ibrahim/</link>
+    </image>
+    
+    <item>
+      <title>Offloading Score: Measuring AI Reliance Through Counterfactual Workflows</title>
+      <link>/papers/padmakumar-offloading-score-2026/</link>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/padmakumar-offloading-score-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verbalizing LLMs&#39; assumptions to explain and control sycophancy</title>
+      <link>/papers/cheng-verbalizing-llms-assumptions-2026/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/cheng-verbalizing-llms-assumptions-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Jörke | Stanford SALT Lab</title>
+    <link>/authors/matthew-jorke/</link>
+      <atom:link href="/authors/matthew-jorke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Jörke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Matthew Jörke</title>
+      <link>/authors/matthew-jorke/</link>
+    </image>
+    
+    <item>
+      <title>Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study</title>
+      <link>/papers/bhattacharjee-generative-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/bhattacharjee-generative-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

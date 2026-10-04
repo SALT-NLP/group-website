@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weicheng Ma | Stanford SALT Lab</title>
+    <link>/authors/weicheng-ma/</link>
+      <atom:link href="/authors/weicheng-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weicheng Ma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Weicheng Ma</title>
+      <link>/authors/weicheng-ma/</link>
+    </image>
+    
+    <item>
+      <title>Simulated Misinformation Susceptibility (SMISTS): Enhancing Misinformation Research with Large Language Model Simulations</title>
+      <link>/papers/ma-simulating-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/ma-simulating-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

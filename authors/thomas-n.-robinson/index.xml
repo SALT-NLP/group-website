@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas N. Robinson | Stanford SALT Lab</title>
+    <link>/authors/thomas-n.-robinson/</link>
+      <atom:link href="/authors/thomas-n.-robinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas N. Robinson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Thomas N. Robinson</title>
+      <link>/authors/thomas-n.-robinson/</link>
+    </image>
+    
+    <item>
+      <title>Learning Next Action Predictors from Human-Computer Interaction</title>
+      <link>/papers/shaikh-learning-next-action-predictors-2026/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/shaikh-learning-next-action-predictors-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

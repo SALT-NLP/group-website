@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatsunori Hashimoto | Stanford SALT Lab</title>
+    <link>/authors/tatsunori-hashimoto/</link>
+      <atom:link href="/authors/tatsunori-hashimoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatsunori Hashimoto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Tatsunori Hashimoto</title>
+      <link>/authors/tatsunori-hashimoto/</link>
+    </image>
+    
+    <item>
+      <title>The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas</title>
+      <link>/papers/si-the-ideation-execution-gap-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/si-the-ideation-execution-gap-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Execution-Grounded Automated AI Research</title>
+      <link>/papers/si-towards-execution-grounded-automated-ai-research-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/si-towards-execution-grounded-automated-ai-research-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100&#43; NLP Researchers</title>
+      <link>/papers/si-research-idea-2025/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/si-research-idea-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

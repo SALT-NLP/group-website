@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Pablo Pacheco | Stanford SALT Lab</title>
+    <link>/authors/juan-pablo-pacheco/</link>
+      <atom:link href="/authors/juan-pablo-pacheco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Pablo Pacheco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Juan Pablo Pacheco</title>
+      <link>/authors/juan-pablo-pacheco/</link>
+    </image>
+    
+    <item>
+      <title>Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90&#43; Novice Counselors</title>
+      <link>/papers/louie-care-naturementalhealth-2025/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-care-naturementalhealth-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

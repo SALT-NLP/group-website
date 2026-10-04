@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce A Arnow | Stanford SALT Lab</title>
+    <link>/authors/bruce-a-arnow/</link>
+      <atom:link href="/authors/bruce-a-arnow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruce A Arnow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Bruce A Arnow</title>
+      <link>/authors/bruce-a-arnow/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors</title>
+      <link>/papers/chaszczewicz-multi-level-feedback-2024/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/chaszczewicz-multi-level-feedback-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

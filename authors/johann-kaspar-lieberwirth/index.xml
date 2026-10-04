@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johann Kaspar Lieberwirth | Stanford SALT Lab</title>
+    <link>/authors/johann-kaspar-lieberwirth/</link>
+      <atom:link href="/authors/johann-kaspar-lieberwirth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johann Kaspar Lieberwirth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Johann Kaspar Lieberwirth</title>
+      <link>/authors/johann-kaspar-lieberwirth/</link>
+    </image>
+    
+    <item>
+      <title>CooperBench: Why Coding Agents Cannot be Your Teammates Yet</title>
+      <link>/papers/khatua-cooperbench-2026/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/khatua-cooperbench-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Brunskill | Stanford SALT Lab</title>
+    <link>/authors/emma-brunskill/</link>
+      <atom:link href="/authors/emma-brunskill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emma Brunskill</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Emma Brunskill</title>
+      <link>/authors/emma-brunskill/</link>
+    </image>
+    
+    <item>
+      <title>Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study</title>
+      <link>/papers/bhattacharjee-generative-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/papers/bhattacharjee-generative-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90&#43; Novice Counselors</title>
+      <link>/papers/louie-care-naturementalhealth-2025/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-care-naturementalhealth-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles</title>
+      <link>/papers/louie-roleplaydoh-2024/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/papers/louie-roleplaydoh-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
