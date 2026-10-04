@@ -1,6 +1,6 @@
 # Editting Group Website
 
-We have set up a workflow to automatically update https://saltlab.stanford.edu whenever there is a new commit on the `main` branch. So any change on the `main` branch will be directly reflected on our website.
+> **Note:** Automatic deployment is currently broken because the server blocks GitHub's IPs. After your PR is merged into `main`, someone with SSH access to the server must deploy it manually. See [Deployment](#deployment).
 
 **To avoid conflict, please open PR to edit the website!** The `main` branch is protected from direct commits.
 
@@ -161,13 +161,33 @@ This website is built with [Hugo Blox](https://docs.hugoblox.com/), a framework 
 
 
 ## Deployment
-The group website is currently deployed on a server provided by [Stanford Domains](https://domains.stanford.edu/) under the cpanel called `salt`. The corresponding domain name is  https://saltlab.stanford.edu/.
+The group website is currently deployed on a server provided by [Stanford Domains](https://domains.stanford.edu/) under the cpanel called `salt` (server IP `146.190.148.141`). The corresponding domain name is https://saltlab.stanford.edu/.
 
-We have set up a Github workflow to automatically update the website whenever there is a new commit on the `main` branch.
+The GitHub workflow ([.github/workflows/deploy.yml](.github/workflows/deploy.yml)) still builds the site on every commit to `main`, but it can no longer upload to the server because the server blocks GitHub's IPs. Until that's fixed, deploy manually with the script below.
 
-### Manually update the website on Stanford Domains server
+### Deploy with `scripts/deploy.sh`
+Requirements: [Hugo](https://docs.hugoblox.com/getting-started/install-hugo/) (extended, v0.121.2 to match CI) and SSH access to the server (your public key must be authorized for the `saltsudo` account, e.g. via cPanel → "SSH Access").
+
+1. Check out the latest `main`:
+    ```
+    git checkout main && git pull
+    ```
+2. Run the deploy script from the repository root:
+    ```
+    scripts/deploy.sh
+    ```
+    It builds the site into `./public`, uploads it to the server with `scp`, and syncs it into the docroot (`~/saltlab.stanford.edu`), deleting stale files.
+3. Open https://saltlab.stanford.edu/ to check the change is live.
+
+You can override the defaults with environment variables, e.g.:
+```
+DEPLOY_USER=saltsudo DEPLOY_HOST=146.190.148.141 SSH_KEY=~/.ssh/id_ed25519 scripts/deploy.sh
+```
+Other options are `DEPLOY_PORT` (default `22`) and `DEPLOY_PATH` (default `saltlab.stanford.edu`, relative to the remote home directory).
+
+### Fallback: upload through cPanel
+If you don't have SSH access:
 
 1. In the local development environment, run `hugo` and compress `./public` into `public.zip`.
 
 2. Log in the server through https://domains.stanford.edu/dashboard/. Click "File Manager" under the "Files" menu to upload `public.zip`. Then click "Terminal" under the "Advanced" menu. In the terminal, run `bash update_website.sh`.
-

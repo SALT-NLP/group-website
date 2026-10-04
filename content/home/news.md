@@ -43,6 +43,14 @@ subtitle = ""
 
 <table class="no-hover-effect-or-stripes" style="border-collapse: collapse;">
 <tr class="news-item">
+    <td style="border: none;">9/2026</td>
+    <td style="border: none;">Two papers from SALT are accepted to <a href="https://neurips.cc/">NeurIPS 2026</a>, and <a href="https://arxiv.org/abs/2605.29392"><em>Offloading Score: Measuring AI Reliance Through Counterfactual Workflows</em></a> is selected for an <strong>oral presentation</strong>!</td>
+  </tr>
+<tr class="news-item">
+    <td style="border: none;">7/2026</td>
+    <td style="border: none;">Seven papers from SALT are accepted to <a href="https://colmweb.org/">COLM 2026</a>, and <a href="https://arxiv.org/abs/2606.09833"><em>CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks</em></a> is selected for an <strong>oral presentation</strong>!</td>
+  </tr>
+<tr class="news-item">
     <td style="border: none;">5/2026</td>
     <td style="border: none;">Four papers from SALT are accepted by <a href="https://icml.cc/">ICML 2026</a>. See you in Seoul!</td>
   </tr>

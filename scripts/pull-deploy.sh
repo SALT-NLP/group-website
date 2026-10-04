@@ -2,12 +2,14 @@
 #
 # Pulls the built site from the "deploy" branch on GitHub and syncs it into
 # the cPanel docroot. Runs on the Stanford Domains server via cron every
-# 5 minutes; GitHub Actions no longer pushes over SSH, it just updates the
-# deploy branch and this script picks the change up over outbound HTTPS.
+# 5 minutes; GitHub Actions no longer pushes over inbound SSH, it just
+# updates the deploy branch and this script picks the change up over
+# outbound SSH (git+ssh, read-only deploy key), since outbound HTTPS to
+# github.com is blocked on this network.
 
 set -euo pipefail
 
-REPO_URL="https://github.com/SALT-NLP/group-website.git"
+REPO_URL="git@github.com:SALT-NLP/group-website.git"
 BRANCH="deploy"
 CLONE_DIR="$HOME/deploy-repo"
 DOCROOT="$HOME/saltlab.stanford.edu"
